@@ -1,0 +1,37 @@
+gateway:
+  listen: "0.0.0.0:5010"
+
+routes:
+  - name: accounts
+    prefix: "/accounts"
+    strip_prefix: true
+    load_balance: round_robin
+    timeout_ms: 5000
+    health_check:
+      # path: "/health"
+      # interval_ms: 10000
+      # timeout_ms: 2000
+    servers:
+      - url: "http://127.0.0.1:3344"
+        weight: 1
+      - url: "http://127.0.0.1:3345"
+        weight: 1
+
+  - name: booking
+    prefix: "/booking"
+    strip_prefix: true
+    load_balance: round_robin
+    # health_check:
+    #   path: "/health"
+    #   interval_ms: 15000
+    #   timeout_ms: 3000
+    servers:
+      - url: "http://127.0.0.1:1111"
+        weight: 1
+
+  - name: mcp
+    prefix: "/mcp_service"
+    strip_prefix: true
+    servers:
+      - url: "http://127.0.0.1:2222"
+        weight: 1

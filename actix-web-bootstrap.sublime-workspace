@@ -1,0 +1,6593 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"len",
+				"len()"
+			],
+			[
+				"print",
+				"println!(…)"
+			],
+			[
+				"Ac",
+				"DeriveActiveEnum"
+			],
+			[
+				"Acti",
+				"ActiveModel"
+			],
+			[
+				"a",
+				"acc_id"
+			],
+			[
+				"gooadprofile",
+				"google_ad_profile"
+			],
+			[
+				"logoima",
+				"logo_image_data"
+			],
+			[
+				"goo",
+				"googleads_client"
+			],
+			[
+				"google",
+				"googleads_client"
+			],
+			[
+				"logo",
+				"logo_path="
+			],
+			[
+				"Se",
+				"SerializerMethodField"
+			],
+			[
+				"S",
+				"SITE_CONFIG"
+			],
+			[
+				"view",
+				"views"
+			],
+			[
+				"path",
+				"path"
+			],
+			[
+				"csrf",
+				"csrf_exempt"
+			],
+			[
+				"Integ",
+				"IntegerField"
+			],
+			[
+				"status",
+				"status"
+			],
+			[
+				"Response",
+				"Response"
+			],
+			[
+				"we",
+				"webhook_calendly"
+			],
+			[
+				"ser",
+				"services"
+			],
+			[
+				"Request",
+				"Request"
+			],
+			[
+				"org",
+				"org_uri"
+			],
+			[
+				"acc",
+				"access_token"
+			],
+			[
+				"Requ",
+				"Request"
+			],
+			[
+				"isins",
+				"isinstance"
+			],
+			[
+				"pkl",
+				"pickle"
+			],
+			[
+				"du",
+				"dumps"
+			],
+			[
+				"fet",
+				"fetch_apointments_date_range"
+			],
+			[
+				"iso",
+				"isoformat"
+			],
+			[
+				"zoho",
+				"zoho_utils"
+			],
+			[
+				"Res",
+				"Response"
+			],
+			[
+				"sca",
+				"scalars"
+			],
+			[
+				"fro",
+				"fromisoformat"
+			],
+			[
+				"db",
+				"db_session"
+			],
+			[
+				"busine",
+				"business_name"
+			],
+			[
+				"custo",
+				"customer_phone="
+			],
+			[
+				"Booking",
+				"BookingDetail"
+			],
+			[
+				"book",
+				"booking_id"
+			],
+			[
+				"booki",
+				"booking_id"
+			],
+			[
+				"bookin",
+				"booking_id"
+			],
+			[
+				"boo",
+				"booking_id"
+			],
+			[
+				"cus",
+				"customer_phone="
+			],
+			[
+				"rou",
+				"routes"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"service",
+				"service_name="
+			],
+			[
+				"id",
+				"id="
+			],
+			[
+				"busi",
+				"business_id"
+			],
+			[
+				"profile",
+				"profile_image"
+			],
+			[
+				"up",
+				"upload_profile_image"
+			],
+			[
+				"S3_",
+				"S3_BUCKET"
+			],
+			[
+				"genera",
+				"generate_presigned_url"
+			],
+			[
+				"bus",
+				"business_profile"
+			],
+			[
+				"SerializerM",
+				"SerializerMethodField"
+			],
+			[
+				"Valida",
+				"ValidationError"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"handle_goog",
+				"handle_google_auth_code_for_login"
+			],
+			[
+				"mp",
+				"mpsc(use tokio::sync::mpsc)"
+			],
+			[
+				"mpsc",
+				"mpsc(use tokio::sync::mpsc)"
+			],
+			[
+				"to",
+				"tokio"
+			],
+			[
+				"gate",
+				"gateway-service"
+			],
+			[
+				"ty",
+				"type\ttype … = …;"
+			],
+			[
+				"wa",
+				"watch_history"
+			],
+			[
+				"mov",
+				"movie"
+			],
+			[
+				"Wat",
+				"WatchHistory"
+			],
+			[
+				"Vide",
+				"VideoProgressStatusSerializer"
+			],
+			[
+				"defa",
+				"defaults"
+			],
+			[
+				"va",
+				"validated_data"
+			],
+			[
+				"Vid",
+				"VideoProgressStatus"
+			],
+			[
+				"Epi",
+				"EpisodeSerializer"
+			],
+			[
+				"Mo",
+				"MovieDetailSerializer"
+			],
+			[
+				"prog",
+				"progresses"
+			],
+			[
+				"Vi",
+				"VideoProgressStatus"
+			],
+			[
+				"val",
+				"values_list"
+			],
+			[
+				"V",
+				"VideoProgressStatusSerializer"
+			],
+			[
+				"subst",
+				"subscribe_till"
+			],
+			[
+				"str",
+				"stripe_subscription_id"
+			],
+			[
+				"ca",
+				"cancel_subscription"
+			],
+			[
+				"mode",
+				"models"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"mod",
+				"models"
+			],
+			[
+				"De",
+				"Deserialize"
+			],
+			[
+				"macro",
+				"macro_utils"
+			],
+			[
+				"proc",
+				"proc_macro_attribute"
+			],
+			[
+				"Log",
+				"LoginCache"
+			],
+			[
+				"js",
+				"json_st"
+			],
+			[
+				"u",
+				"user_id"
+			],
+			[
+				"prinln",
+				"println\tprintln!(…)"
+			],
+			[
+				"pri",
+				"print_type_of"
+			],
+			[
+				"prod",
+				"products"
+			],
+			[
+				"pro",
+				"product_db"
+			],
+			[
+				"ac",
+				"actix_web_validator"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"create",
+				"create_product"
+			],
+			[
+				"pr",
+				"product_db"
+			],
+			[
+				"Htt",
+				"HttpRequest"
+			],
+			[
+				"from",
+				"from_request"
+			],
+			[
+				"ActiMel",
+				"ActiveModel"
+			],
+			[
+				"Ite",
+				"IntoIterator"
+			],
+			[
+				"for",
+				"for_if_clause"
+			],
+			[
+				"For",
+				"ForIfClause"
+			],
+			[
+				"fo",
+				"for_if_clause"
+			],
+			[
+				"parse",
+				"parse_zero_or_more"
+			],
+			[
+				"P",
+				"Pat"
+			],
+			[
+				"un",
+				"unregister_device_token"
+			],
+			[
+				"sea",
+				"season"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"you",
+				"youtube_url"
+			],
+			[
+				"Req",
+				"RequestDb"
+			],
+			[
+				"ex",
+				"extract_peaks"
+			],
+			[
+				"sam",
+				"sample_rate"
+			],
+			[
+				"samp",
+				"samplesArray"
+			],
+			[
+				"recor",
+				"recordedAudioData"
+			],
+			[
+				"pla",
+				"play_audio"
+			],
+			[
+				"aud",
+				"audio_samples_local"
+			],
+			[
+				"as",
+				"as_f32"
+			],
+			[
+				"as_",
+				"as_u32"
+			],
+			[
+				"sampl",
+				"samplesArray"
+			],
+			[
+				"sa",
+				"samplesArray"
+			],
+			[
+				"audio",
+				"audioBlob"
+			],
+			[
+				"my",
+				"MyVecField"
+			],
+			[
+				"F",
+				"FormFieldValidationError"
+			],
+			[
+				"form",
+				"form_result"
+			],
+			[
+				"pos",
+				"postal_code"
+			],
+			[
+				"ref",
+				"refresh_expires_at"
+			],
+			[
+				"Tikcnn",
+				"TikTokOauth2Connect"
+			],
+			[
+				"c",
+				"client_id"
+			],
+			[
+				"AUT",
+				"AUTH_CODE"
+			],
+			[
+				"au",
+				"auth_code"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "actix-web-bootstrap.sublime-project",
+			"settings":
+			{
+				"buffer_size": 2778,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"BgAAAAUBAAAAAAAACAEAAAAAAAAAAAAA6AAAAAAAAADrAAAAAAAAAAAAAADDAAAAAAAAAMYAAAAAAAAAAAAAAJsAAAAAAAAAngAAAAAAAAAAAAAAdgAAAAAAAAB5AAAAAAAAAAAAAABVAAAAAAAAAFgAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAB8BAAAAAAAAbQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					8,
+					3,
+					"left_delete",
+					null,
+					"AwAAAEgAAAAAAAAASAAAAAAAAAABAAAAIkcAAAAAAAAARwAAAAAAAAABAAAAKkYAAAAAAAAARgAAAAAAAAABAAAAIg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEkAAAAAAAAASQAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"file": "auth/src/accounts/mod.rs",
+			"settings":
+			{
+				"buffer_size": 577,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "\n#"
+					},
+					"AgAAAIIAAAAAAAAAgwAAAAAAAAAAAAAAgwAAAAAAAACEAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIIAAAAAAAAAggAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "ut"
+					},
+					"AgAAAIQAAAAAAAAAhQAAAAAAAAAAAAAAhQAAAAAAAACGAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "o"
+					},
+					"AQAAAIYAAAAAAAAAhwAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIYAAAAAAAAAhgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					25,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":64,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							16,
+							24,
+							1
+						],
+						"trigger": "utoipa"
+					},
+					"AgAAAIQAAAAAAAAAhAAAAAAAAAADAAAAdXRvhAAAAAAAAACKAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIcAAAAAAAAAhwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "::path"
+					},
+					"BgAAAIoAAAAAAAAAiwAAAAAAAAAAAAAAiwAAAAAAAACMAAAAAAAAAAAAAACMAAAAAAAAAI0AAAAAAAAAAAAAAI0AAAAAAAAAjgAAAAAAAAAAAAAAjgAAAAAAAACPAAAAAAAAAAAAAACPAAAAAAAAAJAAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIoAAAAAAAAAigAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					30,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[${0:$SELECTION}]"
+					},
+					"AgAAAIQAAAAAAAAAhAAAAAAAAAAMAAAAdXRvaXBhOjpwYXRohAAAAAAAAACSAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIQAAAAAAAAAkAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					32,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAJEAAAAAAAAAkwAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJEAAAAAAAAAkQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAJIAAAAAAAAAkwAAAAAAAAAAAAAAkwAAAAAAAACXAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJIAAAAAAAAAkgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					34,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJMAAAAAAAAAkwAAAAAAAAAEAAAAICAgIA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJcAAAAAAAAAlwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAJMAAAAAAAAAlAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJMAAAAAAAAAkwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					37,
+					1,
+					"reindent",
+					null,
+					"AQAAAJMAAAAAAAAAlwAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJMAAAAAAAAAkwAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "get,"
+					},
+					"BAAAAJcAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACZAAAAAAAAAAAAAACZAAAAAAAAAJoAAAAAAAAAAAAAAJoAAAAAAAAAmwAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJcAAAAAAAAAlwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "\npath"
+					},
+					"BQAAAJsAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAAChAAAAAAAAAAAAAAChAAAAAAAAAKIAAAAAAAAAAAAAAKIAAAAAAAAAowAAAAAAAAAAAAAAowAAAAAAAACkAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJsAAAAAAAAAmwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAKQAAAAAAAAApQAAAAAAAAAAAAAApQAAAAAAAACmAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "  "
+					},
+					"AgAAAKYAAAAAAAAApwAAAAAAAAAAAAAApwAAAAAAAACoAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKYAAAAAAAAApgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					43,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAKgAAAAAAAAAqgAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "/profile"
+					},
+					"CAAAAKkAAAAAAAAAqgAAAAAAAAAAAAAAqgAAAAAAAACrAAAAAAAAAAAAAACrAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAArQAAAAAAAAAAAAAArQAAAAAAAACuAAAAAAAAAAAAAACuAAAAAAAAAK8AAAAAAAAAAAAAAK8AAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAACxAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKkAAAAAAAAAqQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "\n\n\n"
+					},
+					"AwAAAIIAAAAAAAAAgwAAAAAAAAAAAAAAgwAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIUAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIIAAAAAAAAAggAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					52,
+					1,
+					"",
+					null,
+					"AQAAAIMAAAAAAAAAMAEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIMAAAAAAAAAgwAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					66,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJ4AAAAAAAAAngAAAAAAAAABAAAAaQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJ8AAAAAAAAAnwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAAJ4AAAAAAAAAnwAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJ4AAAAAAAAAngAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					68,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":34,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							45,
+							67,
+							1
+						],
+						"trigger": "openapi(use utoipa::openapi)"
+					},
+					"AgAAAJgAAAAAAAAAmAAAAAAAAAAHAAAAb3BlbmFwaZgAAAAAAAAAnwAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJ8AAAAAAAAAnwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					71,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAJgAAAAAAAAAmAAAAAAAAAAHAAAAb3BlbmFwaQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJ8AAAAAAAAAnwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": "opena"
+					},
+					"BQAAAJgAAAAAAAAAmQAAAAAAAAAAAAAAmQAAAAAAAACaAAAAAAAAAAAAAACaAAAAAAAAAJsAAAAAAAAAAAAAAJsAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACdAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJgAAAAAAAAAmAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					73,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":34,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							48,
+							72,
+							5
+						],
+						"trigger": "openapi(use utoipa::openapi)"
+					},
+					"AgAAAJgAAAAAAAAAmAAAAAAAAAAFAAAAb3BlbmGYAAAAAAAAAJ8AAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJ0AAAAAAAAAnQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					74,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							{
+								"newText": "\nuse utoipa::openapi;",
+								"range":
+								{
+									"end":
+									{
+										"character": 21,
+										"line": 2
+									},
+									"start":
+									{
+										"character": 21,
+										"line": 2
+									}
+								}
+							}
+						],
+						"label": null,
+						"process_placeholders": false,
+						"required_view_version": null
+					},
+					"AQAAACIAAAAAAAAANwAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJ8AAAAAAAAAnwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					78,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKcAAAAAAAAApwAAAAAAAAABAAAAaQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					79,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAAKcAAAAAAAAAqAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKcAAAAAAAAApwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					80,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":23,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							54,
+							79,
+							1
+						],
+						"trigger": "OpenApi(use utoipa::OpenApi)"
+					},
+					"AgAAAKEAAAAAAAAAoQAAAAAAAAAHAAAAT3BlbkFwaaEAAAAAAAAAqAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					81,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							{
+								"newText": "utoipa::{OpenApi, openapi}",
+								"range":
+								{
+									"end":
+									{
+										"character": 19,
+										"line": 3
+									},
+									"start":
+									{
+										"character": 4,
+										"line": 3
+									}
+								}
+							}
+						],
+						"label": null,
+						"process_placeholders": false,
+						"required_view_version": null
+					},
+					"AQAAACcAAAAAAAAAQQAAAAAAAAAPAAAAdXRvaXBhOjpvcGVuYXBp",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					89,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAOkAAAAAAAAA7AAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAMBAAAAAAAAAwEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					96,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAOkAAAAAAAAA6QAAAAAAAAADAAAALy8g",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA4BAAAAAAAADgEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					99,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPwAAAAAAAAA/AAAAAAAAAA0AAAAUHJvZmlsZVJlc3BvbnNlLCBVcGRhdGVQcm9maWxlUmVxdWVzdCwgRXJyb3JSZXNwb25zZQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPwAAAAAAAAAMAEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					115,
+					3,
+					"left_delete",
+					null,
+					"AwAAANQAAAAAAAAA1AAAAAAAAAAOAAAAdXBkYXRlX3Byb2ZpbGXTAAAAAAAAANMAAAAAAAAAAQAAACDSAAAAAAAAANIAAAAAAAAAAQAAACw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANQAAAAAAAAA4gAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					121,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAD4BAAAAAAAAQwEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD4BAAAAAAAAPgEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					122,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAD8BAAAAAAAAPwEAAAAAAAAEAAAAICAgIA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEMBAAAAAAAAQwEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					124,
+					1,
+					"",
+					null,
+					"AQAAAD8BAAAAAAAAfQEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD8BAAAAAAAAPwEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					125,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHwBAAAAAAAAfAEAAAAAAAABAAAACg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAH0BAAAAAAAAfQEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					128,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAD4BAAAAAAAAPwEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAD4BAAAAAAAAPgEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					147,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAOQAAAAAAAAA6QAAAAAAAAAAAAAA5QAAAAAAAADlAAAAAAAAAAQAAAAgICAg5QAAAAAAAADtAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					149,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAPYAAAAAAAAA/wAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPYAAAAAAAAA9gAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					150,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPsAAAAAAAAA+wAAAAAAAAAEAAAAICAgIA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAP8AAAAAAAAA/wAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					152,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAPYAAAAAAAAA/wAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPYAAAAAAAAA9gAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					153,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAPcAAAAAAAAA9wAAAAAAAAAIAAAAICAgICAgICA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAP8AAAAAAAAA/wAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\nmod"
+					},
+					"BAAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAA8AAAAAAAAAEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "schemas;"
+					},
+					"CAAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABkAAAAAAAAAGgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "\nconst"
+					},
+					"BgAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAABTAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQAAAAAAAABRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFcAAAAAAAAAWAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVwAAAAAAAABXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "sub_"
+					},
+					"BAAAAFgAAAAAAAAAWQAAAAAAAAAAAAAAWQAAAAAAAABaAAAAAAAAAAAAAABaAAAAAAAAAFsAAAAAAAAAAAAAAFsAAAAAAAAAXAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": "route"
+					},
+					"BQAAAFwAAAAAAAAAXQAAAAAAAAAAAAAAXQAAAAAAAABeAAAAAAAAAAAAAABeAAAAAAAAAF8AAAAAAAAAAAAAAF8AAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABhAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAGEAAAAAAAAAYgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGEAAAAAAAAAYQAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAGEAAAAAAAAAYgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": " &str"
+					},
+					"BQAAAGIAAAAAAAAAYwAAAAAAAAAAAAAAYwAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGUAAAAAAAAAAAAAAGUAAAAAAAAAZgAAAAAAAAAAAAAAZgAAAAAAAABnAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAGcAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABpAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAGkAAAAAAAAAagAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaQAAAAAAAABpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAGoAAAAAAAAAbAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAagAAAAAAAABqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "/acc"
+					},
+					"BAAAAGsAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABtAAAAAAAAAAAAAABtAAAAAAAAAG4AAAAAAAAAAAAAAG4AAAAAAAAAbwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAawAAAAAAAABrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert_completion",
+					{
+						"completion": "accounts",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "accounts"
+					},
+					"AgAAAGwAAAAAAAAAbAAAAAAAAAADAAAAYWNjbAAAAAAAAAB0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbwAAAAAAAABvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAHUAAAAAAAAAdgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdQAAAAAAAAB1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAHYAAAAAAAAAdwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdgAAAAAAAAB2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "sub"
+					},
+					"AwAAALEAAAAAAAAAsgAAAAAAAAALAAAAIi9hY2NvdW50cyKyAAAAAAAAALMAAAAAAAAAAAAAALMAAAAAAAAAtAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsQAAAAAAAAC8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							77,
+							64,
+							3
+						],
+						"trigger": "sub_route"
+					},
+					"AgAAALEAAAAAAAAAsQAAAAAAAAADAAAAc3VisQAAAAAAAAC6AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					1,
+					"insert_snippet",
+					{
+						"contents": "(${0:$SELECTION})"
+					},
+					"AgAAAHUBAAAAAAAAdQEAAAAAAAAKAAAAIi9wcm9maWxlInUBAAAAAAAAgQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdQEAAAAAAAB/AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					1,
+					"insert",
+					{
+						"characters": "format!"
+					},
+					"BwAAAHUBAAAAAAAAdgEAAAAAAAAAAAAAdgEAAAAAAAB3AQAAAAAAAAAAAAB3AQAAAAAAAHgBAAAAAAAAAAAAAHgBAAAAAAAAeQEAAAAAAAAAAAAAeQEAAAAAAAB6AQAAAAAAAAAAAAB6AQAAAAAAAHsBAAAAAAAAAAAAAHsBAAAAAAAAfAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdQEAAAAAAAB1AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					83,
+					1,
+					"insert",
+					{
+						"characters": "\"\","
+					},
+					"AwAAAH0BAAAAAAAAfgEAAAAAAAAAAAAAfgEAAAAAAAB/AQAAAAAAAAAAAAB/AQAAAAAAAIABAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfQEAAAAAAAB9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIABAAAAAAAAgQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAEAAAAAAACAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					1,
+					"insert",
+					{
+						"characters": "{}"
+					},
+					"AgAAAH4BAAAAAAAAfwEAAAAAAAAAAAAAfwEAAAAAAACAAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfgEAAAAAAAB+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					2,
+					"left_delete",
+					null,
+					"AgAAAH8BAAAAAAAAfwEAAAAAAAABAAAAfX4BAAAAAAAAfgEAAAAAAAABAAAAew",
+					"AQAAAAAAAAABAAAAgAEAAAAAAACAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					88,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAH0BAAAAAAAAfQEAAAAAAAABAAAAIn0BAAAAAAAAfQEAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAAfgEAAAAAAAB+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					2,
+					"left_delete",
+					null,
+					"AgAAAH4BAAAAAAAAfgEAAAAAAAABAAAAIH0BAAAAAAAAfQEAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAAfwEAAAAAAAB/AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": "{"
+					},
+					"AQAAAH4BAAAAAAAAfwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfgEAAAAAAAB+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					1,
+					"insert",
+					{
+						"characters": "}"
+					},
+					"AQAAAH8BAAAAAAAAgAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfwEAAAAAAAB/AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAIkBAAAAAAAAigEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiQEAAAAAAACJAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"insert",
+					{
+						"characters": " sub"
+					},
+					"BAAAAIoBAAAAAAAAiwEAAAAAAAAAAAAAiwEAAAAAAACMAQAAAAAAAAAAAACMAQAAAAAAAI0BAAAAAAAAAAAAAI0BAAAAAAAAjgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAigEAAAAAAACKAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":16,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							100,
+							96,
+							4
+						],
+						"trigger": "sub_route"
+					},
+					"AgAAAIsBAAAAAAAAiwEAAAAAAAADAAAAc3ViiwEAAAAAAACUAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjgEAAAAAAACOAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "auth/src/accounts/schemas/mod.rs",
+			"settings":
+			{
+				"buffer_size": 34,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "pub"
+					},
+					"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					2,
+					1,
+					"insert",
+					{
+						"characters": " mod"
+					},
+					"BAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": " re"
+					},
+					"AwAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							2,
+							3,
+							3
+						],
+						"trigger": "request;"
+					},
+					"AgAAAAgAAAAAAAAACAAAAAAAAAACAAAAcmUIAAAAAAAAABAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "\npub"
+					},
+					"BAAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": " mod"
+					},
+					"BAAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": " re"
+					},
+					"AwAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							6,
+							7,
+							3
+						],
+						"trigger": "response;"
+					},
+					"AgAAABkAAAAAAAAAGQAAAAAAAAACAAAAcmUZAAAAAAAAACIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "auth/Cargo.toml",
+			"settings":
+			{
+				"buffer_size": 464,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"",
+					null,
+					"AQAAACIBAAAAAAAA+QEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACIBAAAAAAAAIgEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					19,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPUAAAAAAAAA9QAAAAAAAAARAAAAdXRvaXBhID0gIjUuNC4wIgo",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPUAAAAAAAAABgEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					24,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{${0:$SELECTION}}"
+					},
+					"AgAAAAkBAAAAAAAACQEAAAAAAAAHAAAAIjkuMC4yIgkBAAAAAAAAEgEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABABAAAAAAAACQEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "version"
+					},
+					"BwAAAAoBAAAAAAAACwEAAAAAAAAAAAAACwEAAAAAAAAMAQAAAAAAAAAAAAAMAQAAAAAAAA0BAAAAAAAAAAAAAA0BAAAAAAAADgEAAAAAAAAAAAAADgEAAAAAAAAPAQAAAAAAAAAAAAAPAQAAAAAAABABAAAAAAAAAAAAABABAAAAAAAAEQEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAoBAAAAAAAACgEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAABEBAAAAAAAAEgEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABEBAAAAAAAAEQEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAABkBAAAAAAAAGgEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABkBAAAAAAAAGQEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": " fea"
+					},
+					"BAAAABoBAAAAAAAAGwEAAAAAAAAAAAAAGwEAAAAAAAAcAQAAAAAAAAAAAAAcAQAAAAAAAB0BAAAAAAAAAAAAAB0BAAAAAAAAHgEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABoBAAAAAAAAGgEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					33,
+					1,
+					"insert_completion",
+					{
+						"completion": "features",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "features"
+					},
+					"AgAAABsBAAAAAAAAGwEAAAAAAAADAAAAZmVhGwEAAAAAAAAjAQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAB4BAAAAAAAAHgEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "="
+					},
+					"AQAAACMBAAAAAAAAJAEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACMBAAAAAAAAIwEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					35,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAACQBAAAAAAAAJgEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACQBAAAAAAAAJAEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					36,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAACUBAAAAAAAAJwEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACUBAAAAAAAAJQEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					37,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAACUBAAAAAAAAJQEAAAAAAAABAAAAJyUBAAAAAAAAJQEAAAAAAAABAAAAJw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACYBAAAAAAAAJgEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					38,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAACUBAAAAAAAAJwEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACUBAAAAAAAAJQEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "acti"
+					},
+					"BAAAACYBAAAAAAAAJwEAAAAAAAAAAAAAJwEAAAAAAAAoAQAAAAAAAAAAAAAoAQAAAAAAACkBAAAAAAAAAAAAACkBAAAAAAAAKgEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACYBAAAAAAAAJgEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					40,
+					1,
+					"insert_completion",
+					{
+						"completion": "actix-web",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "actix-web"
+					},
+					"AgAAACYBAAAAAAAAJgEAAAAAAAAEAAAAYWN0aSYBAAAAAAAALwEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACoBAAAAAAAAKgEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					47,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGsBAAAAAAAAawEAAAAAAABAAAAAdXRvaXBhLXN3YWdnZXItdWkgPSB7IHZlcnNpb24gPSAiNiIsIGZlYXR1cmVzID0gWyJhY3RpeC13ZWIiXSB9Cg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGsBAAAAAAAAqwEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					74,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAGcBAAAAAAAAaAEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGcBAAAAAAAAZwEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAGgBAAAAAAAAaQEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGgBAAAAAAAAaAEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					86,
+					1,
+					"insert",
+					{
+						"characters": ".20"
+					},
+					"AwAAAEoBAAAAAAAASwEAAAAAAAAAAAAASwEAAAAAAABMAQAAAAAAAAAAAABMAQAAAAAAAE0BAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEoBAAAAAAAASgEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					87,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEwBAAAAAAAATAEAAAAAAAABAAAAMA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAE0BAAAAAAAATQEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					88,
+					1,
+					"insert",
+					{
+						"characters": ".0"
+					},
+					"AgAAAEwBAAAAAAAATQEAAAAAAAAAAAAATQEAAAAAAABOAQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEwBAAAAAAAATAEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					93,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AQAAAEkBAAAAAAAASgEAAAAAAAABAAAANA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEoBAAAAAAAASQEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					95,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEsBAAAAAAAASwEAAAAAAAABAAAAMg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEwBAAAAAAAATAEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					96,
+					1,
+					"insert",
+					{
+						"characters": "4"
+					},
+					"AQAAAEsBAAAAAAAATAEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAEsBAAAAAAAASwEAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"file": "gateway_service/src/main.rs",
+			"settings":
+			{
+				"buffer_size": 7401,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "500"
+					},
+					"AwAAAGcbAAAAAAAAaBsAAAAAAAAFAAAANTAwMDFoGwAAAAAAAGkbAAAAAAAAAAAAAGkbAAAAAAAAahsAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGcbAAAAAAAAbBsAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGkbAAAAAAAAaRsAAAAAAAABAAAAMA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGobAAAAAAAAahsAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "10"
+					},
+					"AgAAAGkbAAAAAAAAahsAAAAAAAAAAAAAahsAAAAAAABrGwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGkbAAAAAAAAaRsAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "5010"
+					},
+					"BAAAAFccAAAAAAAAWBwAAAAAAAAFAAAANTAwMDFYHAAAAAAAAFkcAAAAAAAAAAAAAFkcAAAAAAAAWhwAAAAAAAAAAAAAWhwAAAAAAABbHAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAFccAAAAAAAAXBwAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					22,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAANAaAAAAAAAA0xoAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOYaAAAAAAAA5hoAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					27,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAA8bAAAAAAAAEhsAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACYbAAAAAAAAJhsAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"file": "auth/src/startup.rs",
+			"settings":
+			{
+				"buffer_size": 1882,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAIIAAAAAAAAAgwAAAAAAAAAAAAAAgwAAAAAAAACEAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIIAAAAAAAAAggAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					5,
+					1,
+					"",
+					null,
+					"AQAAAIQAAAAAAAAAmAIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAJgCAAAAAAAAmQIAAAAAAAAAAAAAmQIAAAAAAACaAgAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJgCAAAAAAAAmAIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					20,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJ8AAAAAAAAAnwAAAAAAAAABAAAAaQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAAJ8AAAAAAAAAoAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJ8AAAAAAAAAnwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					22,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":33,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							10,
+							21,
+							1
+						],
+						"trigger": "openapi(use utoipa::openapi)"
+					},
+					"AgAAAJkAAAAAAAAAmQAAAAAAAAAHAAAAb3BlbmFwaZkAAAAAAAAAoAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					23,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							{
+								"newText": "\nuse utoipa::openapi;",
+								"range":
+								{
+									"end":
+									{
+										"character": 45,
+										"line": 1
+									},
+									"start":
+									{
+										"character": 45,
+										"line": 1
+									}
+								}
+							}
+						],
+						"label": null,
+						"process_placeholders": false,
+						"required_view_version": null
+					},
+					"AQAAAEgAAAAAAAAAXQAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "Open"
+					},
+					"BAAAAKIAAAAAAAAAowAAAAAAAAAHAAAAT3BlbkFwaaMAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAAClAAAAAAAAAAAAAAClAAAAAAAAAKYAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKIAAAAAAAAAqQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					38,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":22,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							19,
+							37,
+							4
+						],
+						"trigger": "OpenApi(use utoipa::OpenApi)"
+					},
+					"AgAAAKIAAAAAAAAAogAAAAAAAAAEAAAAT3BlbqIAAAAAAAAAqQAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKYAAAAAAAAApgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					39,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							{
+								"newText": "utoipa::{OpenApi, openapi}",
+								"range":
+								{
+									"end":
+									{
+										"character": 19,
+										"line": 2
+									},
+									"start":
+									{
+										"character": 4,
+										"line": 2
+									}
+								}
+							}
+						],
+						"label": null,
+						"process_placeholders": false,
+						"required_view_version": null
+					},
+					"AQAAAE0AAAAAAAAAZwAAAAAAAAAPAAAAdXRvaXBhOjpvcGVuYXBp",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKkAAAAAAAAAqQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					62,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAEBAAAAAAAAAQEAAAAAAAABAAAAdA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAIBAAAAAAAAAgEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": "t"
+					},
+					"AQAAAAEBAAAAAAAAAgEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAEBAAAAAAAAAQEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					64,
+					4,
+					"left_delete",
+					null,
+					"BAAAAAEBAAAAAAAAAQEAAAAAAAABAAAAdAABAAAAAAAAAAEAAAAAAAABAAAAc/8AAAAAAAAA/wAAAAAAAAABAAAAZf4AAAAAAAAA/gAAAAAAAAABAAAAbg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAIBAAAAAAAAAgEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": "nes"
+					},
+					"AwAAAP4AAAAAAAAA/wAAAAAAAAAAAAAA/wAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAEBAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAP4AAAAAAAAA/gAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					66,
+					1,
+					"insert_completion",
+					{
+						"completion": "nest",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "nest"
+					},
+					"AgAAAP4AAAAAAAAA/gAAAAAAAAADAAAAbmVz/gAAAAAAAAACAQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAEBAAAAAAAAAQEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": "crate::"
+					},
+					"BwAAACcBAAAAAAAAKAEAAAAAAAAAAAAAKAEAAAAAAAApAQAAAAAAAAAAAAApAQAAAAAAACoBAAAAAAAAAAAAACoBAAAAAAAAKwEAAAAAAAAAAAAAKwEAAAAAAAAsAQAAAAAAAAAAAAAsAQAAAAAAAC0BAAAAAAAAAAAAAC0BAAAAAAAALgEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACcBAAAAAAAAJwEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					99,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAIoDAAAAAAAAkwMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIoDAAAAAAAAigMAAAAAAAAAAAAAABB6QA"
+				],
+				[
+					100,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAIsDAAAAAAAAiwMAAAAAAAAIAAAAICAgICAgICA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJMDAAAAAAAAkwMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					102,
+					1,
+					"",
+					null,
+					"AQAAAIsDAAAAAAAAKgQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIsDAAAAAAAAiwMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					108,
+					1,
+					"left_delete",
+					null,
+					"AQAAALkDAAAAAAAAuQMAAAAAAAABAAAAaQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALoDAAAAAAAAugMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					109,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAALkDAAAAAAAAugMAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALkDAAAAAAAAuQMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					110,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":42,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							54,
+							109,
+							1
+						],
+						"trigger": "SwaggerUi(use utoipa_swagger_ui::SwaggerUi)"
+					},
+					"AgAAALEDAAAAAAAAsQMAAAAAAAAJAAAAU3dhZ2dlclVpsQMAAAAAAAC6AwAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALoDAAAAAAAAugMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					111,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							{
+								"newText": "\nuse utoipa_swagger_ui::SwaggerUi;",
+								"range":
+								{
+									"end":
+									{
+										"character": 31,
+										"line": 2
+									},
+									"start":
+									{
+										"character": 31,
+										"line": 2
+									}
+								}
+							}
+						],
+						"label": null,
+						"process_placeholders": false,
+						"required_view_version": null
+					},
+					"AQAAAGgAAAAAAAAAigAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALoDAAAAAAAAugMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					133,
+					1,
+					"insert",
+					{
+						"characters": "docs"
+					},
+					"BAAAABMEAAAAAAAAFAQAAAAAAAAIAAAAYXBpLWRvY3MUBAAAAAAAABUEAAAAAAAAAAAAABUEAAAAAAAAFgQAAAAAAAAAAAAAFgQAAAAAAAAXBAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABMEAAAAAAAAGwQAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					134,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAABMEAAAAAAAAEwQAAAAAAAAEAAAAZG9jcw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABcEAAAAAAAAFwQAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					135,
+					1,
+					"left_delete",
+					null,
+					"AQAAABIEAAAAAAAAEgQAAAAAAAABAAAALw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABMEAAAAAAAAEwQAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					139,
+					1,
+					"insert",
+					{
+						"characters": "docs"
+					},
+					"BAAAAOQDAAAAAAAA5QMAAAAAAAAKAAAAc3dhZ2dlci11aeUDAAAAAAAA5gMAAAAAAAAAAAAA5gMAAAAAAADnAwAAAAAAAAAAAADnAwAAAAAAAOgDAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOQDAAAAAAAA7gMAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					190,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"BAAAAJ8CAAAAAAAAogIAAAAAAAAAAAAAbAIAAAAAAABvAgAAAAAAAAAAAAApAgAAAAAAACwCAAAAAAAAAAAAABwCAAAAAAAAHwIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAKECAAAAAAAAIwIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					210,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAK0CAAAAAAAAsgIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAK0CAAAAAAAArQIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					248,
+					1,
+					"insert",
+					{
+						"characters": "\n\n\n"
+					},
+					"BAAAAMUAAAAAAAAAxgAAAAAAAAAAAAAArwIAAAAAAACvAgAAAAAAAAQAAAAgICAgxgAAAAAAAADHAAAAAAAAAAAAAADHAAAAAAAAAMgAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMUAAAAAAAAAxQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					250,
+					1,
+					"",
+					null,
+					"AQAAAMgAAAAAAAAA0QIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					251,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAANECAAAAAAAA0gIAAAAAAAAAAAAA0gIAAAAAAADTAgAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANECAAAAAAAA0QIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					260,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOkAAAAAAAAA6QAAAAAAAAABAAAAeQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOoAAAAAAAAA6gAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					261,
+					1,
+					"insert",
+					{
+						"characters": "y"
+					},
+					"AQAAAOkAAAAAAAAA6gAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOkAAAAAAAAA6QAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					262,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":48,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							105,
+							261,
+							1
+						],
+						"trigger": "Modify(use utoipa::Modify)"
+					},
+					"AgAAAOQAAAAAAAAA5AAAAAAAAAAGAAAATW9kaWZ55AAAAAAAAADqAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOoAAAAAAAAA6gAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					263,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							{
+								"newText": "Modify, ",
+								"range":
+								{
+									"end":
+									{
+										"character": 13,
+										"line": 2
+									},
+									"start":
+									{
+										"character": 13,
+										"line": 2
+									}
+								}
+							}
+						],
+						"label": null,
+						"process_placeholders": false,
+						"required_view_version": null
+					},
+					"AQAAAFYAAAAAAAAAXgAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAOoAAAAAAAAA6gAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					270,
+					1,
+					"left_delete",
+					null,
+					"AQAAAO4BAAAAAAAA7gEAAAAAAAABAAAAZQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAO8BAAAAAAAA7wEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					271,
+					1,
+					"insert",
+					{
+						"characters": "e"
+					},
+					"AQAAAO4BAAAAAAAA7wEAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAO4BAAAAAAAA7gEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					272,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":46,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							112,
+							271,
+							1
+						],
+						"trigger": "SecurityScheme(use utoipa::openapi::security::SecurityScheme)"
+					},
+					"AgAAAOEBAAAAAAAA4QEAAAAAAAAOAAAAU2VjdXJpdHlTY2hlbWXhAQAAAAAAAO8BAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAO8BAAAAAAAA7wEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					273,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							{
+								"newText": "::{self, security::SecurityScheme}",
+								"range":
+								{
+									"end":
+									{
+										"character": 37,
+										"line": 2
+									},
+									"start":
+									{
+										"character": 37,
+										"line": 2
+									}
+								}
+							}
+						],
+						"label": null,
+						"process_placeholders": false,
+						"required_view_version": null
+					},
+					"AQAAAG4AAAAAAAAAkAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAO8BAAAAAAAA7wEAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					277,
+					1,
+					"left_delete",
+					null,
+					"AQAAADcCAAAAAAAANwIAAAAAAAABAAAAcg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADgCAAAAAAAAOAIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					278,
+					1,
+					"insert",
+					{
+						"characters": "r"
+					},
+					"AQAAADcCAAAAAAAAOAIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADcCAAAAAAAANwIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					279,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":145,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							117,
+							278,
+							1
+						],
+						"trigger": "HttpBuilder(use utoipa::openapi::security::HttpBuilder)"
+					},
+					"AgAAAC0CAAAAAAAALQIAAAAAAAALAAAASHR0cEJ1aWxkZXItAgAAAAAAADgCAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADgCAAAAAAAAOAIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					280,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							{
+								"newText": "security::{HttpBuilder, SecurityScheme}",
+								"range":
+								{
+									"end":
+									{
+										"character": 70,
+										"line": 2
+									},
+									"start":
+									{
+										"character": 46,
+										"line": 2
+									}
+								}
+							}
+						],
+						"label": null,
+						"process_placeholders": false,
+						"required_view_version": null
+					},
+					"AQAAAHcAAAAAAAAAngAAAAAAAAAYAAAAc2VjdXJpdHk6OlNlY3VyaXR5U2NoZW1l",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADgCAAAAAAAAOAIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					293,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHwCAAAAAAAAfAIAAAAAAAABAAAAZQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAH0CAAAAAAAAfQIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					294,
+					1,
+					"insert",
+					{
+						"characters": "e"
+					},
+					"AQAAAHwCAAAAAAAAfQIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHwCAAAAAAAAfAIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					298,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							{
+								"newText": "HttpAuthScheme, ",
+								"range":
+								{
+									"end":
+									{
+										"character": 57,
+										"line": 2
+									},
+									"start":
+									{
+										"character": 57,
+										"line": 2
+									}
+								}
+							}
+						],
+						"label": "Import `utoipa::openapi::security::HttpAuthScheme`",
+						"process_placeholders": false,
+						"required_view_version": 108
+					},
+					"AQAAAIIAAAAAAAAAkgAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAH0CAAAAAAAAfQIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					312,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAG4EAAAAAAAAcwQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAG4EAAAAAAAAbgQAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					313,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAG8EAAAAAAAAbwQAAAAAAAAEAAAAICAgIA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHMEAAAAAAAAcwQAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					315,
+					1,
+					"",
+					null,
+					"AQAAAG8EAAAAAAAAjgQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAG8EAAAAAAAAbwQAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					329,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"BAAAAB8FAAAAAAAAHwUAAAAAAAADAAAALy8g6QQAAAAAAADpBAAAAAAAAAMAAAAvLyCjBAAAAAAAAKMEAAAAAAAAAwAAAC8vIJMEAAAAAAAAkwQAAAAAAAADAAAALy8g",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACQFAAAAAAAAmQQAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					334,
+					1,
+					"insert",
+					{
+						"characters": "auth"
+					},
+					"BAAAAK0EAAAAAAAArgQAAAAAAAADAAAAYWJjrgQAAAAAAACvBAAAAAAAAAAAAACvBAAAAAAAALAEAAAAAAAAAAAAALAEAAAAAAAAsQQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAK0EAAAAAAAAsAQAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					343,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAOgEAAAAAAAA6wQAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPoEAAAAAAAA+gQAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		},
+		{
+			"file": "auth/src/accounts/models/user.rs",
+			"settings":
+			{
+				"buffer_size": 1235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAAYCAAAAAAAABwIAAAAAAAAAAAAABwIAAAAAAAAIAgAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAYCAAAAAAAABgIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "impl"
+					},
+					"BAAAAAgCAAAAAAAACQIAAAAAAAAAAAAACQIAAAAAAAAKAgAAAAAAAAAAAAAKAgAAAAAAAAsCAAAAAAAAAAAAAAsCAAAAAAAADAIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAgCAAAAAAAACAIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " Aci"
+					},
+					"BAAAAAwCAAAAAAAADQIAAAAAAAAAAAAADQIAAAAAAAAOAgAAAAAAAAAAAAAOAgAAAAAAAA8CAAAAAAAAAAAAAA8CAAAAAAAAEAIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAwCAAAAAAAADAIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA8CAAAAAAAADwIAAAAAAAABAAAAaQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABACAAAAAAAAEAIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "ti"
+					},
+					"AgAAAA8CAAAAAAAAEAIAAAAAAAAAAAAAEAIAAAAAAAARAgAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAA8CAAAAAAAADwIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					13,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":8,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							7,
+							11,
+							2
+						],
+						"trigger": "ActiveModel"
+					},
+					"AgAAAA0CAAAAAAAADQIAAAAAAAAEAAAAQWN0aQ0CAAAAAAAAGAIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABECAAAAAAAAEQIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					14,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAABgCAAAAAAAAGgIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABgCAAAAAAAAGAIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					15,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"AwAAABkCAAAAAAAAGgIAAAAAAAAAAAAAGgIAAAAAAAAbAgAAAAAAAAAAAAAaAgAAAAAAAB4CAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAABkCAAAAAAAAGQIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "Default,"
+					},
+					"CQAAALQAAAAAAAAAtQAAAAAAAAAAAAAAGwIAAAAAAAAbAgAAAAAAAAQAAAAgICAgtQAAAAAAAAC2AAAAAAAAAAAAAAC2AAAAAAAAALcAAAAAAAAAAAAAALcAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAC5AAAAAAAAAAAAAAC5AAAAAAAAALoAAAAAAAAAAAAAALoAAAAAAAAAuwAAAAAAAAAAAAAAuwAAAAAAAAC8AAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAALwAAAAAAAAAvQAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					35,
+					1,
+					"reindent",
+					null,
+					"AQAAACMCAAAAAAAAJwIAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACMCAAAAAAAAIwIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "pub"
+					},
+					"AwAAACcCAAAAAAAAKAIAAAAAAAAAAAAAKAIAAAAAAAApAgAAAAAAAAAAAAApAgAAAAAAACoCAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACcCAAAAAAAAJwIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": " fn"
+					},
+					"AwAAACoCAAAAAAAAKwIAAAAAAAAAAAAAKwIAAAAAAAAsAgAAAAAAAAAAAAAsAgAAAAAAAC0CAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACoCAAAAAAAAKgIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					38,
+					3,
+					"left_delete",
+					null,
+					"AwAAACwCAAAAAAAALAIAAAAAAAABAAAAbisCAAAAAAAAKwIAAAAAAAABAAAAZioCAAAAAAAAKgIAAAAAAAABAAAAIA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAC0CAAAAAAAALQIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					39,
+					2,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AgAAACcCAAAAAAAAJwIAAAAAAAADAAAAcHViIwIAAAAAAAAjAgAAAAAAAAQAAAAgICAg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACoCAAAAAAAAKgIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					5,
+					1,
+					"reindent",
+					null,
+					"AQAAACMCAAAAAAAAJwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwIAAAAAAAAjAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"reindent",
+					null,
+					"AQAAAG4BAAAAAAAAcgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbgEAAAAAAABuAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "\notp:"
+					},
+					"BwAAAHIBAAAAAAAAdwEAAAAAAAAAAAAALAIAAAAAAAAsAgAAAAAAAAQAAAAgICAgbgEAAAAAAABuAQAAAAAAAAQAAAAgICAgcwEAAAAAAAB0AQAAAAAAAAAAAAB0AQAAAAAAAHUBAAAAAAAAAAAAAHUBAAAAAAAAdgEAAAAAAAAAAAAAdgEAAAAAAAB3AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcgEAAAAAAAByAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAHcBAAAAAAAAeAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdwEAAAAAAAB3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					2,
+					"left_delete",
+					null,
+					"AgAAAHcBAAAAAAAAdwEAAAAAAAABAAAAIHYBAAAAAAAAdgEAAAAAAAABAAAAOg",
+					"AQAAAAAAAAABAAAAeAEAAAAAAAB4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "_reason:"
+					},
+					"CAAAAHYBAAAAAAAAdwEAAAAAAAAAAAAAdwEAAAAAAAB4AQAAAAAAAAAAAAB4AQAAAAAAAHkBAAAAAAAAAAAAAHkBAAAAAAAAegEAAAAAAAAAAAAAegEAAAAAAAB7AQAAAAAAAAAAAAB7AQAAAAAAAHwBAAAAAAAAAAAAAHwBAAAAAAAAfQEAAAAAAAAAAAAAfQEAAAAAAAB+AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdgEAAAAAAAB2AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": " String"
+					},
+					"BwAAAH4BAAAAAAAAfwEAAAAAAAAAAAAAfwEAAAAAAACAAQAAAAAAAAAAAACAAQAAAAAAAIEBAAAAAAAAAAAAAIEBAAAAAAAAggEAAAAAAAAAAAAAggEAAAAAAACDAQAAAAAAAAAAAACDAQAAAAAAAIQBAAAAAAAAAAAAAIQBAAAAAAAAhQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfgEAAAAAAAB+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAIUBAAAAAAAAhgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhQEAAAAAAACFAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIcBAAAAAAAAhwEAAAAAAAARAAAAICAgIG90cDogU3RyaW5nLAo",
+					"AQAAAAAAAAABAAAAhwEAAAAAAACYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					292,
+					1,
+					"left_delete",
+					null,
+					"AQAAAG8BAAAAAAAAbwEAAAAAAAAYAAAAICAgIG90cF9yZWFzb246IFN0cmluZywK",
+					"AQAAAAAAAAABAAAAbwEAAAAAAACHAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					293,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAHMBAAAAAAAAcwEAAAAAAAADAAAALy8g",
+					"AQAAAAAAAAABAAAAbwEAAAAAAABvAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					298,
+					1,
+					"insert",
+					{
+						"characters": "\n#"
+					},
+					"AgAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					299,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAEsAAAAAAAAATQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwAAAAAAAABLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					300,
+					1,
+					"insert",
+					{
+						"characters": "sea"
+					},
+					"AwAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAABOAAAAAAAAAE8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					301,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":6,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							51,
+							300,
+							3
+						],
+						"trigger": "sea_orm"
+					},
+					"AgAAAEwAAAAAAAAATAAAAAAAAAADAAAAc2VhTAAAAAAAAABTAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATwAAAAAAAABPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					302,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAFMAAAAAAAAAVQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					303,
+					1,
+					"insert",
+					{
+						"characters": "db_type="
+					},
+					"CAAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABZAAAAAAAAAAAAAABZAAAAAAAAAFoAAAAAAAAAAAAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					304,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'"
+					},
+					"AQAAAFwAAAAAAAAAXQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					305,
+					1,
+					"insert",
+					{
+						"characters": "In"
+					},
+					"AgAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					306,
+					3,
+					"left_delete",
+					null,
+					"AwAAAF4AAAAAAAAAXgAAAAAAAAABAAAAbl0AAAAAAAAAXQAAAAAAAAABAAAASVwAAAAAAAAAXAAAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAAXwAAAAAAAABfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					307,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAFwAAAAAAAAAXgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					308,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAAF0AAAAAAAAAXgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					309,
+					1,
+					"left_delete",
+					null,
+					"AQAAAF0AAAAAAAAAXQAAAAAAAAABAAAAaQ",
+					"AQAAAAAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					310,
+					1,
+					"insert",
+					{
+						"characters": "Integer"
+					},
+					"BwAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAABfAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					312,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAGUAAAAAAAAAZgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZQAAAAAAAABlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					313,
+					1,
+					"insert",
+					{
+						"characters": " rs_type="
+					},
+					"CQAAAGYAAAAAAAAAZwAAAAAAAAAAAAAAZwAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGkAAAAAAAAAAAAAAGkAAAAAAAAAagAAAAAAAAAAAAAAagAAAAAAAABrAAAAAAAAAAAAAABrAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAbQAAAAAAAAAAAAAAbQAAAAAAAABuAAAAAAAAAAAAAABuAAAAAAAAAG8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZgAAAAAAAABmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					314,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAG8AAAAAAAAAcQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbwAAAAAAAABvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					315,
+					1,
+					"insert",
+					{
+						"characters": "i32"
+					},
+					"AwAAAHAAAAAAAAAAcQAAAAAAAAAAAAAAcQAAAAAAAAByAAAAAAAAAAAAAAByAAAAAAAAAHMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcAAAAAAAAABwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					322,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAEcAAAAAAAAASAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					323,
+					1,
+					"insert",
+					{
+						"characters": " Ac"
+					},
+					"AwAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAABKAAAAAAAAAEsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					324,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEoAAAAAAAAASgAAAAAAAAABAAAAY0kAAAAAAAAASQAAAAAAAAABAAAAQQ",
+					"AQAAAAAAAAABAAAASwAAAAAAAABLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					325,
+					1,
+					"insert",
+					{
+						"characters": "deri"
+					},
+					"BAAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAATQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					326,
+					1,
+					"insert",
+					{
+						"characters": "veAc"
+					},
+					"BAAAAE0AAAAAAAAATgAAAAAAAAAAAAAATgAAAAAAAABPAAAAAAAAAAAAAABPAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATQAAAAAAAABNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					327,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							74,
+							326,
+							4
+						],
+						"trigger": "DeriveActiveEnum"
+					},
+					"AgAAAEkAAAAAAAAASQAAAAAAAAAIAAAAZGVyaXZlQWNJAAAAAAAAAFkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQAAAAAAAABRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					331,
+					1,
+					"insert",
+					{
+						"characters": "\n#"
+					},
+					"AgAAAJgAAAAAAAAAnQAAAAAAAAAAAAAAnQAAAAAAAACeAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					332,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAJ4AAAAAAAAAoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					333,
+					1,
+					"insert",
+					{
+						"characters": "sea"
+					},
+					"AwAAAJ8AAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAAChAAAAAAAAAAAAAAChAAAAAAAAAKIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnwAAAAAAAACfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					334,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							79,
+							333,
+							3
+						],
+						"trigger": "sea_orm"
+					},
+					"AgAAAJ8AAAAAAAAAnwAAAAAAAAADAAAAc2VhnwAAAAAAAACmAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAogAAAAAAAACiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					335,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAKYAAAAAAAAAqAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApgAAAAAAAACmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					336,
+					1,
+					"insert",
+					{
+						"characters": "num_value="
+					},
+					"CgAAAKcAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACpAAAAAAAAAAAAAACpAAAAAAAAAKoAAAAAAAAAAAAAAKoAAAAAAAAAqwAAAAAAAAAAAAAAqwAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAAK0AAAAAAAAAAAAAAK0AAAAAAAAArgAAAAAAAAAAAAAArgAAAAAAAACvAAAAAAAAAAAAAACvAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAsQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApwAAAAAAAACnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					337,
+					1,
+					"insert",
+					{
+						"characters": "0"
+					},
+					"AQAAALEAAAAAAAAAsgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsQAAAAAAAACxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					341,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAALUAAAAAAAAA0QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsgAAAAAAAACyAAAAAAAAAAAAAAAAAGlA"
+				],
+				[
+					342,
+					1,
+					"swap_line_down",
+					null,
+					"AgAAANwAAAAAAAAA+AAAAAAAAAAAAAAAtQAAAAAAAAC1AAAAAAAAABwAAAAgICAgI1tzZWFfb3JtKG51bV92YWx1ZT0wKV0K",
+					"AQAAAAAAAAABAAAAzgAAAAAAAADOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					343,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAANwAAAAAAAAA+AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2QAAAAAAAADZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					344,
+					1,
+					"swap_line_down",
+					null,
+					"AgAAAAsBAAAAAAAAJwEAAAAAAAAAAAAA3AAAAAAAAADcAAAAAAAAABwAAAAgICAgI1tzZWFfb3JtKG51bV92YWx1ZT0wKV0K",
+					"AQAAAAAAAAABAAAA9QAAAAAAAAD1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					347,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAcBAAAAAAAABwEAAAAAAAABAAAAMA",
+					"AQAAAAAAAAABAAAACAEAAAAAAAAIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					348,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAAAcBAAAAAAAACAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwEAAAAAAAAHAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					350,
+					1,
+					"left_delete",
+					null,
+					"AQAAANgAAAAAAAAA2AAAAAAAAAABAAAAMA",
+					"AQAAAAAAAAABAAAA2QAAAAAAAADZAAAAAAAAAAAAAAAAAGlA"
+				],
+				[
+					351,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAANgAAAAAAAAA2QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2AAAAAAAAADYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					356,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAFkAAAAAAAAAWgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					357,
+					1,
+					"insert",
+					{
+						"characters": " IntoEn"
+					},
+					"BwAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAABfAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAYQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					358,
+					1,
+					"insert",
+					{
+						"characters": "umItera"
+					},
+					"BwAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAABjAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAABmAAAAAAAAAAAAAABmAAAAAAAAAGcAAAAAAAAAAAAAAGcAAAAAAAAAaAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					359,
+					1,
+					"insert",
+					{
+						"characters": "tor"
+					},
+					"AwAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABqAAAAAAAAAAAAAABqAAAAAAAAAGsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					363,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAFsAAAAAAAAAWwAAAAAAAAAQAAAASW50b0VudW1JdGVyYXRvcg",
+					"AQAAAAAAAAABAAAAawAAAAAAAABrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					364,
+					2,
+					"left_delete",
+					null,
+					"AgAAAFoAAAAAAAAAWgAAAAAAAAABAAAAIFkAAAAAAAAAWQAAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					366,
+					1,
+					"insert",
+					{
+						"characters": "Into,"
+					},
+					"BQAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					367,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAE4AAAAAAAAATwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					369,
+					1,
+					"insert",
+					{
+						"characters": "Enum"
+					},
+					"BAAAAE0AAAAAAAAATgAAAAAAAAAAAAAATgAAAAAAAABPAAAAAAAAAAAAAABPAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATQAAAAAAAABNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					370,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAEkAAAAAAAAASQAAAAAAAAAIAAAASW50b0VudW0",
+					"AQAAAAAAAAABAAAAUQAAAAAAAABRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					371,
+					1,
+					"insert",
+					{
+						"characters": "In"
+					},
+					"AgAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					372,
+					1,
+					"insert",
+					{
+						"characters": "toEnu"
+					},
+					"BQAAAEsAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABNAAAAAAAAAAAAAABNAAAAAAAAAE4AAAAAAAAAAAAAAE4AAAAAAAAATwAAAAAAAAAAAAAATwAAAAAAAABQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwAAAAAAAABLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					373,
+					1,
+					"insert",
+					{
+						"characters": "mIterator"
+					},
+					"CQAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAFYAAAAAAAAAAAAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					376,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFgAAAAAAAAAWAAAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					377,
+					1,
+					"insert",
+					{
+						"characters": "r"
+					},
+					"AQAAAFgAAAAAAAAAWQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					378,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAEkAAAAAAAAASQAAAAAAAAAQAAAASW50b0VudW1JdGVyYXRvcg",
+					"AQAAAAAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					379,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEgAAAAAAAAASAAAAAAAAAABAAAAIEcAAAAAAAAARwAAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					387,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAFkAAAAAAAAAWgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					388,
+					1,
+					"insert",
+					{
+						"characters": " En"
+					},
+					"AwAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					389,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":17,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							117,
+							388,
+							3
+						],
+						"trigger": "EnumIter"
+					},
+					"AgAAAFsAAAAAAAAAWwAAAAAAAAACAAAARW5bAAAAAAAAAGMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					413,
+					1,
+					"insert",
+					{
+						"characters": " Default,"
+					},
+					"CQAAADIAAAAAAAAAMwAAAAAAAAAAAAAAMwAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADUAAAAAAAAAAAAAADUAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					430,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAJwAAAAAAAAAnQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					432,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAJwAAAAAAAAAnQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					433,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAJ0AAAAAAAAAnwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					434,
+					1,
+					"insert",
+					{
+						"characters": "de"
+					},
+					"AgAAAJ4AAAAAAAAAnwAAAAAAAAAAAAAAnwAAAAAAAACgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					435,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							138,
+							434,
+							2
+						],
+						"trigger": "default"
+					},
+					"AgAAAJ4AAAAAAAAAngAAAAAAAAACAAAAZGWeAAAAAAAAAKUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoAAAAAAAAACgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					436,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAKUAAAAAAAAApwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApQAAAAAAAAClAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					439,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAKUAAAAAAAAApQAAAAAAAAABAAAAKKUAAAAAAAAApQAAAAAAAAABAAAAKQ",
+					"AQAAAAAAAAABAAAApgAAAAAAAACmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					440,
+					7,
+					"left_delete",
+					null,
+					"BwAAAKQAAAAAAAAApAAAAAAAAAABAAAAdKMAAAAAAAAAowAAAAAAAAABAAAAbKIAAAAAAAAAogAAAAAAAAABAAAAdaEAAAAAAAAAoQAAAAAAAAABAAAAYaAAAAAAAAAAoAAAAAAAAAABAAAAZp8AAAAAAAAAnwAAAAAAAAABAAAAZZ4AAAAAAAAAngAAAAAAAAABAAAAZA",
+					"AQAAAAAAAAABAAAApQAAAAAAAAClAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					441,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAJ0AAAAAAAAAnQAAAAAAAAABAAAAW50AAAAAAAAAnQAAAAAAAAABAAAAXQ",
+					"AQAAAAAAAAABAAAAngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					442,
+					2,
+					"left_delete",
+					null,
+					"AgAAAJwAAAAAAAAAnAAAAAAAAAABAAAAI5sAAAAAAAAAmwAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAnQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					457,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAADYBAAAAAAAANwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgEAAAAAAAA2AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					458,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAADcBAAAAAAAAOAEAAAAAAAAAAAAAOAEAAAAAAAA5AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwEAAAAAAAA3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					460,
+					1,
+					"insert",
+					{
+						"characters": "impl"
+					},
+					"BAAAADgBAAAAAAAAOQEAAAAAAAAAAAAAOQEAAAAAAAA6AQAAAAAAAAAAAAA6AQAAAAAAADsBAAAAAAAAAAAAADsBAAAAAAAAPAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAEAAAAAAAA4AQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					461,
+					1,
+					"insert",
+					{
+						"characters": " Default"
+					},
+					"CAAAADwBAAAAAAAAPQEAAAAAAAAAAAAAPQEAAAAAAAA+AQAAAAAAAAAAAAA+AQAAAAAAAD8BAAAAAAAAAAAAAD8BAAAAAAAAQAEAAAAAAAAAAAAAQAEAAAAAAABBAQAAAAAAAAAAAABBAQAAAAAAAEIBAAAAAAAAAAAAAEIBAAAAAAAAQwEAAAAAAAAAAAAAQwEAAAAAAABEAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAEAAAAAAAA8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					462,
+					1,
+					"insert",
+					{
+						"characters": " for"
+					},
+					"BAAAAEQBAAAAAAAARQEAAAAAAAAAAAAARQEAAAAAAABGAQAAAAAAAAAAAABGAQAAAAAAAEcBAAAAAAAAAAAAAEcBAAAAAAAASAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAEAAAAAAABEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					463,
+					1,
+					"insert",
+					{
+						"characters": " Otp"
+					},
+					"BAAAAEgBAAAAAAAASQEAAAAAAAAAAAAASQEAAAAAAABKAQAAAAAAAAAAAABKAQAAAAAAAEsBAAAAAAAAAAAAAEsBAAAAAAAATAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAEAAAAAAABIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					464,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":63,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							156,
+							463,
+							4
+						],
+						"trigger": "OtpReason"
+					},
+					"AgAAAEkBAAAAAAAASQEAAAAAAAADAAAAT3RwSQEAAAAAAABSAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATAEAAAAAAABMAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					465,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAFIBAAAAAAAAVAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgEAAAAAAABSAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					466,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"AwAAAFMBAAAAAAAAVAEAAAAAAAAAAAAAVAEAAAAAAABVAQAAAAAAAAAAAABUAQAAAAAAAFgBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUwEAAAAAAABTAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					467,
+					1,
+					"insert",
+					{
+						"characters": "p"
+					},
+					"AQAAAFgBAAAAAAAAWQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAEAAAAAAABYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					468,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFgBAAAAAAAAWAEAAAAAAAABAAAAcA",
+					"AQAAAAAAAAABAAAAWQEAAAAAAABZAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					469,
+					1,
+					"insert",
+					{
+						"characters": "fn"
+					},
+					"AgAAAFgBAAAAAAAAWQEAAAAAAAAAAAAAWQEAAAAAAABaAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAEAAAAAAABYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					470,
+					1,
+					"insert",
+					{
+						"characters": " d"
+					},
+					"AgAAAFoBAAAAAAAAWwEAAAAAAAAAAAAAWwEAAAAAAABcAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgEAAAAAAABaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					471,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							163,
+							470,
+							2
+						],
+						"trigger": "fn default()"
+					},
+					"AgAAAFgBAAAAAAAAWAEAAAAAAAAEAAAAZm4gZFgBAAAAAAAAfQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXAEAAAAAAABcAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					472,
+					1,
+					"insert",
+					{
+						"characters": "Otp"
+					},
+					"AwAAAHcBAAAAAAAAeAEAAAAAAAAAAAAAeAEAAAAAAAB5AQAAAAAAAAAAAAB5AQAAAAAAAHoBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdwEAAAAAAAB3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					473,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":7,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							165,
+							472,
+							3
+						],
+						"trigger": "OtpReason"
+					},
+					"AgAAAHcBAAAAAAAAdwEAAAAAAAADAAAAT3RwdwEAAAAAAACAAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAegEAAAAAAAB6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					474,
+					1,
+					"insert",
+					{
+						"characters": "::E"
+					},
+					"AwAAAIABAAAAAAAAgQEAAAAAAAAAAAAAgQEAAAAAAACCAQAAAAAAAAAAAACCAQAAAAAAAIMBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAEAAAAAAACAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					475,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":2,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							167,
+							474,
+							3
+						],
+						"trigger": "EmailVerification"
+					},
+					"AgAAAIIBAAAAAAAAggEAAAAAAAABAAAARYIBAAAAAAAAkwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgwEAAAAAAACDAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					479,
+					2,
+					"left_delete",
+					null,
+					"AgAAADMAAAAAAAAAMwAAAAAAAAAIAAAARGVmYXVsdCwyAAAAAAAAADIAAAAAAAAAAQAAACA",
+					"AQAAAAAAAAABAAAAOwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					488,
+					1,
+					"reindent",
+					null,
+					"AQAAABIDAAAAAAAAFgMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgMAAAAAAAASAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					502,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AwAAAC0BAAAAAAAALgEAAAAAAAAAAAAAEwMAAAAAAAATAwAAAAAAAAQAAAAgICAgLgEAAAAAAAAvAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQEAAAAAAAAtAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					503,
+					1,
+					"insert",
+					{
+						"characters": "struct"
+					},
+					"BgAAAC8BAAAAAAAAMAEAAAAAAAAAAAAAMAEAAAAAAAAxAQAAAAAAAAAAAAAxAQAAAAAAADIBAAAAAAAAAAAAADIBAAAAAAAAMwEAAAAAAAAAAAAAMwEAAAAAAAA0AQAAAAAAAAAAAAA0AQAAAAAAADUBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALwEAAAAAAAAvAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					504,
+					1,
+					"insert",
+					{
+						"characters": " Email"
+					},
+					"BgAAADUBAAAAAAAANgEAAAAAAAAAAAAANgEAAAAAAAA3AQAAAAAAAAAAAAA3AQAAAAAAADgBAAAAAAAAAAAAADgBAAAAAAAAOQEAAAAAAAAAAAAAOQEAAAAAAAA6AQAAAAAAAAAAAAA6AQAAAAAAADsBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANQEAAAAAAAA1AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					505,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAADsBAAAAAAAAPQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOwEAAAAAAAA7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					506,
+					1,
+					"insert",
+					{
+						"characters": "String"
+					},
+					"BgAAADwBAAAAAAAAPQEAAAAAAAAAAAAAPQEAAAAAAAA+AQAAAAAAAAAAAAA+AQAAAAAAAD8BAAAAAAAAAAAAAD8BAAAAAAAAQAEAAAAAAAAAAAAAQAEAAAAAAABBAQAAAAAAAAAAAABBAQAAAAAAAEIBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAEAAAAAAAA8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					508,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAEMBAAAAAAAARAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwEAAAAAAABDAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					509,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAEQBAAAAAAAARQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAEAAAAAAABEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					510,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAEUBAAAAAAAARgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQEAAAAAAABFAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					512,
+					1,
+					"insert",
+					{
+						"characters": "impl"
+					},
+					"BAAAAEUBAAAAAAAARgEAAAAAAAAAAAAARgEAAAAAAABHAQAAAAAAAAAAAABHAQAAAAAAAEgBAAAAAAAAAAAAAEgBAAAAAAAASQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQEAAAAAAABFAQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					513,
+					1,
+					"insert",
+					{
+						"characters": " Email"
+					},
+					"BgAAAEkBAAAAAAAASgEAAAAAAAAAAAAASgEAAAAAAABLAQAAAAAAAAAAAABLAQAAAAAAAEwBAAAAAAAAAAAAAEwBAAAAAAAATQEAAAAAAAAAAAAATQEAAAAAAABOAQAAAAAAAAAAAABOAQAAAAAAAE8BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQEAAAAAAABJAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					514,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAE8BAAAAAAAAUQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATwEAAAAAAABPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					515,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"AwAAAFABAAAAAAAAUQEAAAAAAAAAAAAAUQEAAAAAAABSAQAAAAAAAAAAAABRAQAAAAAAAFUBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAEAAAAAAABQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					516,
+					1,
+					"insert",
+					{
+						"characters": "pub"
+					},
+					"AwAAAFUBAAAAAAAAVgEAAAAAAAAAAAAAVgEAAAAAAABXAQAAAAAAAAAAAABXAQAAAAAAAFgBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVQEAAAAAAABVAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					517,
+					1,
+					"insert",
+					{
+						"characters": " parse"
+					},
+					"BgAAAFgBAAAAAAAAWQEAAAAAAAAAAAAAWQEAAAAAAABaAQAAAAAAAAAAAABaAQAAAAAAAFsBAAAAAAAAAAAAAFsBAAAAAAAAXAEAAAAAAAAAAAAAXAEAAAAAAABdAQAAAAAAAAAAAABdAQAAAAAAAF4BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAEAAAAAAABYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					518,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAF4BAAAAAAAAYAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXgEAAAAAAABeAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					519,
+					1,
+					"insert",
+					{
+						"characters": "st:"
+					},
+					"AwAAAF8BAAAAAAAAYAEAAAAAAAAAAAAAYAEAAAAAAABhAQAAAAAAAAAAAABhAQAAAAAAAGIBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXwEAAAAAAABfAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					520,
+					1,
+					"insert",
+					{
+						"characters": " &String"
+					},
+					"CAAAAGIBAAAAAAAAYwEAAAAAAAAAAAAAYwEAAAAAAABkAQAAAAAAAAAAAABkAQAAAAAAAGUBAAAAAAAAAAAAAGUBAAAAAAAAZgEAAAAAAAAAAAAAZgEAAAAAAABnAQAAAAAAAAAAAABnAQAAAAAAAGgBAAAAAAAAAAAAAGgBAAAAAAAAaQEAAAAAAAAAAAAAaQEAAAAAAABqAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgEAAAAAAABiAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					522,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAGsBAAAAAAAAbQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAawEAAAAAAABrAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					523,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BAAAAGwBAAAAAAAAcQEAAAAAAAAAAAAAcQEAAAAAAAB2AQAAAAAAAAAAAABtAQAAAAAAAG0BAAAAAAAABAAAACAgICBtAQAAAAAAAHUBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAEAAAAAAABsAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					530,
+					1,
+					"insert",
+					{
+						"characters": "fn"
+					},
+					"AwAAAFkBAAAAAAAAWgEAAAAAAAAAAAAAbgEAAAAAAABuAQAAAAAAAAgAAAAgICAgICAgIFoBAAAAAAAAWwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQEAAAAAAABZAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					531,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFsBAAAAAAAAXAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWwEAAAAAAABbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					558,
+					1,
+					"reindent",
+					null,
+					"AQAAAHABAAAAAAAAeAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcAEAAAAAAABwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					559,
+					1,
+					"insert",
+					{
+						"characters": "st.s"
+					},
+					"BAAAAHgBAAAAAAAAeQEAAAAAAAAAAAAAeQEAAAAAAAB6AQAAAAAAAAAAAAB6AQAAAAAAAHsBAAAAAAAAAAAAAHsBAAAAAAAAfAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeAEAAAAAAAB4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					560,
+					1,
+					"insert",
+					{
+						"characters": "plit"
+					},
+					"BAAAAHwBAAAAAAAAfQEAAAAAAAAAAAAAfQEAAAAAAAB+AQAAAAAAAAAAAAB+AQAAAAAAAH8BAAAAAAAAAAAAAH8BAAAAAAAAgAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfAEAAAAAAAB8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					561,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":30,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							222,
+							560,
+							4
+						],
+						"trigger": "split(…)"
+					},
+					"AgAAAHsBAAAAAAAAewEAAAAAAAAFAAAAc3BsaXR7AQAAAAAAAIUBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAEAAAAAAACAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					562,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"${0:$SELECTION}\""
+					},
+					"AgAAAIEBAAAAAAAAgQEAAAAAAAADAAAAcGF0gQEAAAAAAACGAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgQEAAAAAAACEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					563,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIIBAAAAAAAAggEAAAAAAAADAAAAcGF0",
+					"AQAAAAAAAAABAAAAggEAAAAAAACFAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					564,
+					2,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"BAAAAIEBAAAAAAAAgQEAAAAAAAABAAAAIoEBAAAAAAAAgQEAAAAAAAABAAAAIoABAAAAAAAAgAEAAAAAAAABAAAAKIABAAAAAAAAgAEAAAAAAAABAAAAKQ",
+					"AQAAAAAAAAABAAAAggEAAAAAAACCAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					565,
+					5,
+					"left_delete",
+					null,
+					"BQAAAH8BAAAAAAAAfwEAAAAAAAABAAAAdH4BAAAAAAAAfgEAAAAAAAABAAAAaX0BAAAAAAAAfQEAAAAAAAABAAAAbHwBAAAAAAAAfAEAAAAAAAABAAAAcHsBAAAAAAAAewEAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAgAEAAAAAAACAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					566,
+					1,
+					"insert",
+					{
+						"characters": "sp"
+					},
+					"AgAAAHsBAAAAAAAAfAEAAAAAAAAAAAAAfAEAAAAAAAB9AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAewEAAAAAAAB7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					567,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":30,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							228,
+							566,
+							2
+						],
+						"trigger": "split(…)"
+					},
+					"AgAAAHsBAAAAAAAAewEAAAAAAAACAAAAc3B7AQAAAAAAAIUBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfQEAAAAAAAB9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					568,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIEBAAAAAAAAgQEAAAAAAAADAAAAcGF0",
+					"AQAAAAAAAAABAAAAgQEAAAAAAACEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					569,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAIABAAAAAAAAgAEAAAAAAAABAAAAKIABAAAAAAAAgAEAAAAAAAABAAAAKQ",
+					"AQAAAAAAAAABAAAAgQEAAAAAAACBAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					570,
+					1,
+					"insert",
+					{
+						"characters": "_ww"
+					},
+					"AwAAAIABAAAAAAAAgQEAAAAAAAAAAAAAgQEAAAAAAACCAQAAAAAAAAAAAACCAQAAAAAAAIMBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAEAAAAAAACAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					571,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIIBAAAAAAAAggEAAAAAAAABAAAAdw",
+					"AQAAAAAAAAABAAAAgwEAAAAAAACDAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					572,
+					1,
+					"insert",
+					{
+						"characters": "h"
+					},
+					"AQAAAIIBAAAAAAAAgwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAggEAAAAAAACCAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					573,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":5,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							234,
+							572,
+							1
+						],
+						"trigger": "split_whitespace()"
+					},
+					"AgAAAHsBAAAAAAAAewEAAAAAAAAIAAAAc3BsaXRfd2h7AQAAAAAAAI0BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgwEAAAAAAACDAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					574,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAI0BAAAAAAAAjgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjQEAAAAAAACNAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					575,
+					1,
+					"left_delete",
+					null,
+					"AQAAAI0BAAAAAAAAjQEAAAAAAAABAAAAOw",
+					"AQAAAAAAAAABAAAAjgEAAAAAAACOAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					577,
+					1,
+					"insert_snippet",
+					{
+						"contents": "(${0:$SELECTION})"
+					},
+					"AgAAAHgBAAAAAAAAeAEAAAAAAAAVAAAAc3Quc3BsaXRfd2hpdGVzcGFjZSgpeAEAAAAAAACPAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjQEAAAAAAAB4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					579,
+					1,
+					"insert",
+					{
+						"characters": "print"
+					},
+					"BQAAAHgBAAAAAAAAeQEAAAAAAAAAAAAAeQEAAAAAAAB6AQAAAAAAAAAAAAB6AQAAAAAAAHsBAAAAAAAAAAAAAHsBAAAAAAAAfAEAAAAAAAAAAAAAfAEAAAAAAAB9AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeAEAAAAAAAB4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					582,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":136,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							241,
+							579,
+							5
+						],
+						"trigger": "println!(…)"
+					},
+					"AgAAAHgBAAAAAAAAeAEAAAAAAAAFAAAAcHJpbnR4AQAAAAAAAIABAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfQEAAAAAAAB9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					584,
+					1,
+					"insert",
+					{
+						"characters": "\"\","
+					},
+					"AwAAAIEBAAAAAAAAggEAAAAAAAAAAAAAggEAAAAAAACDAQAAAAAAAAAAAACDAQAAAAAAAIQBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgQEAAAAAAACBAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					585,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIQBAAAAAAAAhQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAEAAAAAAACEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					587,
+					1,
+					"insert",
+					{
+						"characters": "{}"
+					},
+					"AgAAAIIBAAAAAAAAgwEAAAAAAAAAAAAAgwEAAAAAAACEAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAggEAAAAAAACCAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					590,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAJ0BAAAAAAAAngEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnQEAAAAAAACdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					602,
+					1,
+					"insert",
+					{
+						"characters": ":?"
+					},
+					"AgAAAIMBAAAAAAAAhAEAAAAAAAAAAAAAhAEAAAAAAACFAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgwEAAAAAAACDAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					612,
+					1,
+					"insert",
+					{
+						"characters": ".split"
+					},
+					"BgAAAIsBAAAAAAAAjAEAAAAAAAATAAAALnNwbGl0X3doaXRlc3BhY2UoKYwBAAAAAAAAjQEAAAAAAAAAAAAAjQEAAAAAAACOAQAAAAAAAAAAAACOAQAAAAAAAI8BAAAAAAAAAAAAAI8BAAAAAAAAkAEAAAAAAAAAAAAAkAEAAAAAAACRAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAngEAAAAAAACLAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					621,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAJEBAAAAAAAAkwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkQEAAAAAAACRAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					622,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAJIBAAAAAAAAlAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkgEAAAAAAACSAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					623,
+					1,
+					"insert",
+					{
+						"characters": "@"
+					},
+					"AQAAAJMBAAAAAAAAlAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkwEAAAAAAACTAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					675,
+					1,
+					"insert",
+					{
+						"characters": ".l"
+					},
+					"AgAAAJYBAAAAAAAAlwEAAAAAAAAAAAAAlwEAAAAAAACYAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlgEAAAAAAACWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					676,
+					1,
+					"insert",
+					{
+						"characters": "en"
+					},
+					"AgAAAJgBAAAAAAAAmQEAAAAAAAAAAAAAmQEAAAAAAACaAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmAEAAAAAAACYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					677,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAJoBAAAAAAAAnAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmgEAAAAAAACaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					679,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAJoBAAAAAAAAmgEAAAAAAAABAAAAKJoBAAAAAAAAmgEAAAAAAAABAAAAKQ",
+					"AQAAAAAAAAABAAAAmwEAAAAAAACbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					680,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAJcBAAAAAAAAlwEAAAAAAAADAAAAbGVu",
+					"AQAAAAAAAAABAAAAmgEAAAAAAACaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					681,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJYBAAAAAAAAlgEAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAAlwEAAAAAAACXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					682,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAAJYBAAAAAAAAlwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlgEAAAAAAACWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					688,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJYBAAAAAAAAlgEAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAAlwEAAAAAAACXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					689,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAAJYBAAAAAAAAlwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlgEAAAAAAACWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					690,
+					1,
+					"insert",
+					{
+						"characters": "coll"
+					},
+					"BAAAAJcBAAAAAAAAmAEAAAAAAAAAAAAAmAEAAAAAAACZAQAAAAAAAAAAAACZAQAAAAAAAJoBAAAAAAAAAAAAAJoBAAAAAAAAmwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlwEAAAAAAACXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					691,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":14,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							287,
+							690,
+							4
+						],
+						"trigger": "collect()(as Iterator)"
+					},
+					"AgAAAJcBAAAAAAAAlwEAAAAAAAAEAAAAY29sbJcBAAAAAAAAoAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmwEAAAAAAACbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					693,
+					1,
+					"insert",
+					{
+						"characters": "::<"
+					},
+					"AwAAAJ4BAAAAAAAAnwEAAAAAAAAAAAAAnwEAAAAAAACgAQAAAAAAAAAAAACgAQAAAAAAAKEBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAngEAAAAAAACeAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					694,
+					1,
+					"insert",
+					{
+						"characters": "Vec<"
+					},
+					"BAAAAKEBAAAAAAAAogEAAAAAAAAAAAAAogEAAAAAAACjAQAAAAAAAAAAAACjAQAAAAAAAKQBAAAAAAAAAAAAAKQBAAAAAAAApQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoQEAAAAAAAChAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					695,
+					1,
+					"insert",
+					{
+						"characters": "&s"
+					},
+					"AgAAAKUBAAAAAAAApgEAAAAAAAAAAAAApgEAAAAAAACnAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApQEAAAAAAAClAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					696,
+					1,
+					"insert",
+					{
+						"characters": "tr>"
+					},
+					"AwAAAKcBAAAAAAAAqAEAAAAAAAAAAAAAqAEAAAAAAACpAQAAAAAAAAAAAACpAQAAAAAAAKoBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApwEAAAAAAACnAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					705,
+					1,
+					"insert",
+					{
+						"characters": ">"
+					},
+					"AQAAAKkBAAAAAAAAqgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqQEAAAAAAACpAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					734,
+					1,
+					"insert",
+					{
+						"characters": ".len"
+					},
+					"BAAAAK0BAAAAAAAArgEAAAAAAAAAAAAArgEAAAAAAACvAQAAAAAAAAAAAACvAQAAAAAAALABAAAAAAAAAAAAALABAAAAAAAAsQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArQEAAAAAAACtAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					736,
+					4,
+					"left_delete",
+					null,
+					"BAAAALABAAAAAAAAsAEAAAAAAAABAAAAbq8BAAAAAAAArwEAAAAAAAABAAAAZa4BAAAAAAAArgEAAAAAAAABAAAAbK0BAAAAAAAArQEAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAAsQEAAAAAAACxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					740,
+					1,
+					"cut",
+					null,
+					"AQAAAIkBAAAAAAAAiQEAAAAAAAAkAAAAc3Quc3BsaXQoIkAiKS5jb2xsZWN0Ojo8VmVjPCZzdHI+Pigp",
+					"AQAAAAAAAAABAAAArQEAAAAAAACJAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					743,
+					1,
+					"insert",
+					{
+						"characters": "\nlet"
+					},
+					"BAAAAG8BAAAAAAAAeAEAAAAAAAAAAAAAeAEAAAAAAAB5AQAAAAAAAAAAAAB5AQAAAAAAAHoBAAAAAAAAAAAAAHoBAAAAAAAAewEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbwEAAAAAAABvAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					744,
+					1,
+					"insert",
+					{
+						"characters": " parts"
+					},
+					"BgAAAHsBAAAAAAAAfAEAAAAAAAAAAAAAfAEAAAAAAAB9AQAAAAAAAAAAAAB9AQAAAAAAAH4BAAAAAAAAAAAAAH4BAAAAAAAAfwEAAAAAAAAAAAAAfwEAAAAAAACAAQAAAAAAAAAAAACAAQAAAAAAAIEBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAewEAAAAAAAB7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					745,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAIEBAAAAAAAAggEAAAAAAAAAAAAAggEAAAAAAACDAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgQEAAAAAAACBAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					746,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIMBAAAAAAAAhAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgwEAAAAAAACDAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					747,
+					1,
+					"paste",
+					null,
+					"AQAAAIQBAAAAAAAAqAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAEAAAAAAACEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					753,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAKgBAAAAAAAAqQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqAEAAAAAAACoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					759,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAALIBAAAAAAAAtQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxQEAAAAAAADFAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					784,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAKkBAAAAAAAAsgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqQEAAAAAAACpAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					787,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAALsBAAAAAAAAuwEAAAAAAAADAAAALy8g",
+					"AQAAAAAAAAABAAAA0QEAAAAAAADRAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					789,
+					1,
+					"insert",
+					{
+						"characters": "par"
+					},
+					"BAAAAMwBAAAAAAAAzQEAAAAAAAAAAAAAqgEAAAAAAACqAQAAAAAAAAgAAAAgICAgICAgIMUBAAAAAAAAxgEAAAAAAAAAAAAAxgEAAAAAAADHAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzAEAAAAAAADMAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					790,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":4,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							328,
+							789,
+							4
+						],
+						"trigger": "parts"
+					},
+					"AgAAAMQBAAAAAAAAxAEAAAAAAAADAAAAcGFyxAEAAAAAAADJAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxwEAAAAAAADHAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					828,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAKkBAAAAAAAAsgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqQEAAAAAAACpAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					831,
+					1,
+					"insert",
+					{
+						"characters": "->"
+					},
+					"AwAAAG4BAAAAAAAAbwEAAAAAAAAAAAAAqwEAAAAAAACrAQAAAAAAAAgAAAAgICAgICAgIG8BAAAAAAAAcAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbgEAAAAAAABuAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					832,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAHABAAAAAAAAcQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcAEAAAAAAABwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					833,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHABAAAAAAAAcAEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAcQEAAAAAAABxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					834,
+					1,
+					"insert",
+					{
+						"characters": "Res"
+					},
+					"AwAAAHABAAAAAAAAcQEAAAAAAAAAAAAAcQEAAAAAAAByAQAAAAAAAAAAAAByAQAAAAAAAHMBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcAEAAAAAAABwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					835,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":87,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							343,
+							834,
+							3
+						],
+						"trigger": "Result<…>"
+					},
+					"AgAAAHABAAAAAAAAcAEAAAAAAAADAAAAUmVzcAEAAAAAAAB4AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwEAAAAAAABzAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					836,
+					1,
+					"insert",
+					{
+						"characters": "Self,"
+					},
+					"BQAAAHcBAAAAAAAAeAEAAAAAAAAAAAAAeAEAAAAAAAB5AQAAAAAAAAAAAAB5AQAAAAAAAHoBAAAAAAAAAAAAAHoBAAAAAAAAewEAAAAAAAAAAAAAewEAAAAAAAB8AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdwEAAAAAAAB3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					837,
+					1,
+					"insert",
+					{
+						"characters": " St"
+					},
+					"AwAAAHwBAAAAAAAAfQEAAAAAAAAAAAAAfQEAAAAAAAB+AQAAAAAAAAAAAAB+AQAAAAAAAH8BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfAEAAAAAAAB8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					838,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":202,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							346,
+							837,
+							3
+						],
+						"trigger": "String"
+					},
+					"AgAAAH0BAAAAAAAAfQEAAAAAAAACAAAAU3R9AQAAAAAAAIMBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfwEAAAAAAAB/AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					845,
+					1,
+					"insert",
+					{
+						"characters": "\ntodo"
+					},
+					"BQAAAOIBAAAAAAAA6wEAAAAAAAAAAAAA6wEAAAAAAADsAQAAAAAAAAAAAADsAQAAAAAAAO0BAAAAAAAAAAAAAO0BAAAAAAAA7gEAAAAAAAAAAAAA7gEAAAAAAADvAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4gEAAAAAAADiAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					846,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":141,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							351,
+							845,
+							5
+						],
+						"trigger": "todo!(…)"
+					},
+					"AgAAAOsBAAAAAAAA6wEAAAAAAAAEAAAAdG9kb+sBAAAAAAAA8gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7wEAAAAAAADvAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					848,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAPIBAAAAAAAA8wEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8gEAAAAAAADyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					851,
+					2,
+					"left_delete",
+					null,
+					"AgAAAMEBAAAAAAAAwQEAAAAAAAAhAAAACiAgICAgICAgcHJpbnRsbiEoIns6P30iLCBwYXJ0cyk7wAEAAAAAAADAAQAAAAAAAAEAAAAK",
+					"AQAAAAAAAAABAAAA4gEAAAAAAADBAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					852,
+					1,
+					"reindent",
+					null,
+					"AQAAAMABAAAAAAAAyAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwAEAAAAAAADAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					853,
+					1,
+					"insert",
+					{
+						"characters": "\nif"
+					},
+					"BAAAAMgBAAAAAAAA0QEAAAAAAAAAAAAAwAEAAAAAAADAAQAAAAAAAAgAAAAgICAgICAgIMkBAAAAAAAAygEAAAAAAAAAAAAAygEAAAAAAADLAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyAEAAAAAAADIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					854,
+					1,
+					"insert",
+					{
+						"characters": " par"
+					},
+					"BAAAAMsBAAAAAAAAzAEAAAAAAAAAAAAAzAEAAAAAAADNAQAAAAAAAAAAAADNAQAAAAAAAM4BAAAAAAAAAAAAAM4BAAAAAAAAzwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAywEAAAAAAADLAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					855,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":5,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							360,
+							854,
+							4
+						],
+						"trigger": "parts"
+					},
+					"AgAAAMwBAAAAAAAAzAEAAAAAAAADAAAAcGFyzAEAAAAAAADRAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzwEAAAAAAADPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					856,
+					1,
+					"insert",
+					{
+						"characters": ".len"
+					},
+					"BAAAANEBAAAAAAAA0gEAAAAAAAAAAAAA0gEAAAAAAADTAQAAAAAAAAAAAADTAQAAAAAAANQBAAAAAAAAAAAAANQBAAAAAAAA1QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0QEAAAAAAADRAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					858,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":2,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							362,
+							856,
+							4
+						],
+						"trigger": "len()"
+					},
+					"AgAAANIBAAAAAAAA0gEAAAAAAAADAAAAbGVu0gEAAAAAAADXAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1QEAAAAAAADVAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					859,
+					1,
+					"insert",
+					{
+						"characters": " !="
+					},
+					"AwAAANcBAAAAAAAA2AEAAAAAAAAAAAAA2AEAAAAAAADZAQAAAAAAAAAAAADZAQAAAAAAANoBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1wEAAAAAAADXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					860,
+					1,
+					"insert",
+					{
+						"characters": " 2"
+					},
+					"AgAAANoBAAAAAAAA2wEAAAAAAAAAAAAA2wEAAAAAAADcAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2gEAAAAAAADaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					861,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAANwBAAAAAAAA3gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3AEAAAAAAADcAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					862,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BAAAAN0BAAAAAAAA5gEAAAAAAAAAAAAA5gEAAAAAAADvAQAAAAAAAAAAAADeAQAAAAAAAN4BAAAAAAAACAAAACAgICAgICAg3gEAAAAAAADqAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3QEAAAAAAADdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					863,
+					1,
+					"insert",
+					{
+						"characters": "return"
+					},
+					"BgAAAOoBAAAAAAAA6wEAAAAAAAAAAAAA6wEAAAAAAADsAQAAAAAAAAAAAADsAQAAAAAAAO0BAAAAAAAAAAAAAO0BAAAAAAAA7gEAAAAAAAAAAAAA7gEAAAAAAADvAQAAAAAAAAAAAADvAQAAAAAAAPABAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6gEAAAAAAADqAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					864,
+					1,
+					"insert",
+					{
+						"characters": " Err"
+					},
+					"BAAAAPABAAAAAAAA8QEAAAAAAAAAAAAA8QEAAAAAAADyAQAAAAAAAAAAAADyAQAAAAAAAPMBAAAAAAAAAAAAAPMBAAAAAAAA9AEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8AEAAAAAAADwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					865,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAPQBAAAAAAAA9gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9AEAAAAAAAD0AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					866,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAPUBAAAAAAAA9wEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9QEAAAAAAAD1AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					867,
+					1,
+					"insert",
+					{
+						"characters": "invalid"
+					},
+					"BwAAAPYBAAAAAAAA9wEAAAAAAAAAAAAA9wEAAAAAAAD4AQAAAAAAAAAAAAD4AQAAAAAAAPkBAAAAAAAAAAAAAPkBAAAAAAAA+gEAAAAAAAAAAAAA+gEAAAAAAAD7AQAAAAAAAAAAAAD7AQAAAAAAAPwBAAAAAAAAAAAAAPwBAAAAAAAA/QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9gEAAAAAAAD2AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					868,
+					1,
+					"insert",
+					{
+						"characters": " email"
+					},
+					"BgAAAP0BAAAAAAAA/gEAAAAAAAAAAAAA/gEAAAAAAAD/AQAAAAAAAAAAAAD/AQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAQIAAAAAAAAAAAAAAQIAAAAAAAACAgAAAAAAAAAAAAACAgAAAAAAAAMCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/QEAAAAAAAD9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					877,
+					1,
+					"insert",
+					{
+						"characters": "Option"
+					},
+					"BgAAAHABAAAAAAAAcQEAAAAAAAAGAAAAUmVzdWx0cQEAAAAAAAByAQAAAAAAAAAAAAByAQAAAAAAAHMBAAAAAAAAAAAAAHMBAAAAAAAAdAEAAAAAAAAAAAAAdAEAAAAAAAB1AQAAAAAAAAAAAAB1AQAAAAAAAHYBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcAEAAAAAAAB2AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					881,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHsBAAAAAAAAewEAAAAAAAAIAAAALCBTdHJpbmc",
+					"AQAAAAAAAAABAAAAewEAAAAAAACDAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					884,
+					1,
+					"insert",
+					{
+						"characters": "None"
+					},
+					"BAAAAOkBAAAAAAAA6gEAAAAAAAAUAAAARXJyKCJpbnZhbGlkIGVtYWlsIinqAQAAAAAAAOsBAAAAAAAAAAAAAOsBAAAAAAAA7AEAAAAAAAAAAAAA7AEAAAAAAADtAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/QEAAAAAAADpAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					889,
+					1,
+					"insert",
+					{
+						"characters": "if"
+					},
+					"AgAAAAACAAAAAAAAAQIAAAAAAAAIAAAAdG9kbyEoKTsBAgAAAAAAAAICAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAIAAAAAAAAAAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					890,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAICAAAAAAAAAwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgIAAAAAAAACAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					891,
+					1,
+					"insert",
+					{
+						"characters": "par"
+					},
+					"AwAAAAMCAAAAAAAABAIAAAAAAAAAAAAABAIAAAAAAAAFAgAAAAAAAAAAAAAFAgAAAAAAAAYCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwIAAAAAAAADAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					892,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":5,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							391,
+							891,
+							3
+						],
+						"trigger": "parts"
+					},
+					"AgAAAAMCAAAAAAAAAwIAAAAAAAADAAAAcGFyAwIAAAAAAAAIAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgIAAAAAAAAGAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					893,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAAgCAAAAAAAACgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAIAAAAAAAAIAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					894,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAAkCAAAAAAAACgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQIAAAAAAAAJAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					896,
+					1,
+					"insert",
+					{
+						"characters": ".split"
+					},
+					"BgAAAAsCAAAAAAAADAIAAAAAAAAAAAAADAIAAAAAAAANAgAAAAAAAAAAAAANAgAAAAAAAA4CAAAAAAAAAAAAAA4CAAAAAAAADwIAAAAAAAAAAAAADwIAAAAAAAAQAgAAAAAAAAAAAAAQAgAAAAAAABECAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwIAAAAAAAALAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					897,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							396,
+							896,
+							6
+						],
+						"trigger": "split(…)"
+					},
+					"AgAAAAwCAAAAAAAADAIAAAAAAAAFAAAAc3BsaXQMAgAAAAAAABYCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQIAAAAAAAARAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					898,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"${0:$SELECTION}\""
+					},
+					"AgAAABICAAAAAAAAEgIAAAAAAAADAAAAcGF0EgIAAAAAAAAXAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgIAAAAAAAAVAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					899,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAABMCAAAAAAAAFAIAAAAAAAADAAAAcGF0",
+					"AQAAAAAAAAABAAAAEwIAAAAAAAAWAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					901,
+					1,
+					"insert",
+					{
+						"characters": ".coll"
+					},
+					"BQAAABYCAAAAAAAAFwIAAAAAAAAAAAAAFwIAAAAAAAAYAgAAAAAAAAAAAAAYAgAAAAAAABkCAAAAAAAAAAAAABkCAAAAAAAAGgIAAAAAAAAAAAAAGgIAAAAAAAAbAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgIAAAAAAAAWAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					902,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":22,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							401,
+							901,
+							5
+						],
+						"trigger": "collect()(as Iterator)"
+					},
+					"AgAAABcCAAAAAAAAFwIAAAAAAAAEAAAAY29sbBcCAAAAAAAAIAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGwIAAAAAAAAbAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					903,
+					2,
+					"left_delete",
+					null,
+					"AgAAAB8CAAAAAAAAHwIAAAAAAAABAAAAKR4CAAAAAAAAHgIAAAAAAAABAAAAKA",
+					"AQAAAAAAAAABAAAAIAIAAAAAAAAgAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					904,
+					1,
+					"insert",
+					{
+						"characters": "::<Vec"
+					},
+					"BgAAAB4CAAAAAAAAHwIAAAAAAAAAAAAAHwIAAAAAAAAgAgAAAAAAAAAAAAAgAgAAAAAAACECAAAAAAAAAAAAACECAAAAAAAAIgIAAAAAAAAAAAAAIgIAAAAAAAAjAgAAAAAAAAAAAAAjAgAAAAAAACQCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgIAAAAAAAAeAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					905,
+					1,
+					"insert",
+					{
+						"characters": "<&st"
+					},
+					"BAAAACQCAAAAAAAAJQIAAAAAAAAAAAAAJQIAAAAAAAAmAgAAAAAAAAAAAAAmAgAAAAAAACcCAAAAAAAAAAAAACcCAAAAAAAAKAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAIAAAAAAAAkAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					906,
+					1,
+					"insert",
+					{
+						"characters": "r>>"
+					},
+					"AwAAACgCAAAAAAAAKQIAAAAAAAAAAAAAKQIAAAAAAAAqAgAAAAAAAAAAAAAqAgAAAAAAACsCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAIAAAAAAAAoAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					907,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAACsCAAAAAAAALQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwIAAAAAAAArAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					909,
+					1,
+					"insert",
+					{
+						"characters": ".len"
+					},
+					"BAAAAC0CAAAAAAAALgIAAAAAAAAAAAAALgIAAAAAAAAvAgAAAAAAAAAAAAAvAgAAAAAAADACAAAAAAAAAAAAADACAAAAAAAAMQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQIAAAAAAAAtAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					910,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAADECAAAAAAAAMwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQIAAAAAAAAxAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					912,
+					1,
+					"insert",
+					{
+						"characters": " <"
+					},
+					"AgAAADMCAAAAAAAANAIAAAAAAAAAAAAANAIAAAAAAAA1AgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwIAAAAAAAAzAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					913,
+					1,
+					"insert",
+					{
+						"characters": " 2"
+					},
+					"AgAAADUCAAAAAAAANgIAAAAAAAAAAAAANgIAAAAAAAA3AgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANQIAAAAAAAA1AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					914,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAADcCAAAAAAAAOQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwIAAAAAAAA3AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					915,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BAAAADgCAAAAAAAAQQIAAAAAAAAAAAAAQQIAAAAAAABKAgAAAAAAAAAAAAA5AgAAAAAAADkCAAAAAAAACAAAACAgICAgICAgOQIAAAAAAABFAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAIAAAAAAAA4AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					917,
+					1,
+					"insert",
+					{
+						"characters": "return"
+					},
+					"BgAAAEUCAAAAAAAARgIAAAAAAAAAAAAARgIAAAAAAABHAgAAAAAAAAAAAABHAgAAAAAAAEgCAAAAAAAAAAAAAEgCAAAAAAAASQIAAAAAAAAAAAAASQIAAAAAAABKAgAAAAAAAAAAAABKAgAAAAAAAEsCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQIAAAAAAABFAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					918,
+					1,
+					"insert",
+					{
+						"characters": " None;"
+					},
+					"BgAAAEsCAAAAAAAATAIAAAAAAAAAAAAATAIAAAAAAABNAgAAAAAAAAAAAABNAgAAAAAAAE4CAAAAAAAAAAAAAE4CAAAAAAAATwIAAAAAAAAAAAAATwIAAAAAAABQAgAAAAAAAAAAAABQAgAAAAAAAFECAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwIAAAAAAABLAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					920,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAO0BAAAAAAAA7gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7QEAAAAAAADtAQAAAAAAAAAAAAAAAGhA"
+				],
+				[
+					923,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAFwCAAAAAAAAZQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXAIAAAAAAABcAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					924,
+					1,
+					"insert",
+					{
+						"characters": "\nreturn"
+					},
+					"CAAAAGUCAAAAAAAAbgIAAAAAAAAAAAAAXQIAAAAAAABdAgAAAAAAAAgAAAAgICAgICAgIGYCAAAAAAAAZwIAAAAAAAAAAAAAZwIAAAAAAABoAgAAAAAAAAAAAABoAgAAAAAAAGkCAAAAAAAAAAAAAGkCAAAAAAAAagIAAAAAAAAAAAAAagIAAAAAAABrAgAAAAAAAAAAAABrAgAAAAAAAGwCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZQIAAAAAAABlAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					925,
+					1,
+					"insert",
+					{
+						"characters": " Some"
+					},
+					"BQAAAGwCAAAAAAAAbQIAAAAAAAAAAAAAbQIAAAAAAABuAgAAAAAAAAAAAABuAgAAAAAAAG8CAAAAAAAAAAAAAG8CAAAAAAAAcAIAAAAAAAAAAAAAcAIAAAAAAABxAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAIAAAAAAABsAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					926,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAHECAAAAAAAAcwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQIAAAAAAABxAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					927,
+					1,
+					"insert",
+					{
+						"characters": "Self"
+					},
+					"BAAAAHICAAAAAAAAcwIAAAAAAAAAAAAAcwIAAAAAAAB0AgAAAAAAAAAAAAB0AgAAAAAAAHUCAAAAAAAAAAAAAHUCAAAAAAAAdgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcgIAAAAAAAByAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					928,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAHYCAAAAAAAAeAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdgIAAAAAAAB2AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					929,
+					1,
+					"insert",
+					{
+						"characters": "st"
+					},
+					"AgAAAHcCAAAAAAAAeAIAAAAAAAAAAAAAeAIAAAAAAAB5AgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdwIAAAAAAAB3AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					936,
+					1,
+					"insert",
+					{
+						"characters": "str"
+					},
+					"AwAAAGcBAAAAAAAAaAEAAAAAAAAGAAAAU3RyaW5naAEAAAAAAABpAQAAAAAAAAAAAABpAQAAAAAAAGoBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZwEAAAAAAABtAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					946,
+					1,
+					"insert",
+					{
+						"characters": ".toow"
+					},
+					"BQAAAHYCAAAAAAAAdwIAAAAAAAAAAAAAdwIAAAAAAAB4AgAAAAAAAAAAAAB4AgAAAAAAAHkCAAAAAAAAAAAAAHkCAAAAAAAAegIAAAAAAAAAAAAAegIAAAAAAAB7AgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdgIAAAAAAAB2AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					947,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":85,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							436,
+							946,
+							5
+						],
+						"trigger": "to_owned()(as ToOwned)"
+					},
+					"AgAAAHcCAAAAAAAAdwIAAAAAAAAEAAAAdG9vd3cCAAAAAAAAgQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAewIAAAAAAAB7AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					955,
+					1,
+					"insert",
+					{
+						"characters": "Ema"
+					},
+					"AwAAAMgDAAAAAAAAyQMAAAAAAAAGAAAAU3RyaW5nyQMAAAAAAADKAwAAAAAAAAAAAADKAwAAAAAAAMsDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyAMAAAAAAADOAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					956,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":41,\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							441,
+							955,
+							3
+						],
+						"trigger": "Email"
+					},
+					"AgAAAMgDAAAAAAAAyAMAAAAAAAADAAAARW1hyAMAAAAAAADNAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAywMAAAAAAADLAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					961,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAEQBAAAAAAAARQEAAAAAAAAAAAAARQEAAAAAAABGAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAEAAAAAAABEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					977,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAC4BAAAAAAAALwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALgEAAAAAAAAuAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					979,
+					1,
+					"",
+					null,
+					"AQAAAC8BAAAAAAAAVgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALwEAAAAAAAAvAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					980,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFUBAAAAAAAAVQEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAVgEAAAAAAABWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					988,
+					1,
+					"insert",
+					{
+						"characters": "String"
+					},
+					"BgAAAPEDAAAAAAAA8gMAAAAAAAAFAAAARW1haWzyAwAAAAAAAPMDAAAAAAAAAAAAAPMDAAAAAAAA9AMAAAAAAAAAAAAA9AMAAAAAAAD1AwAAAAAAAAAAAAD1AwAAAAAAAPYDAAAAAAAAAAAAAPYDAAAAAAAA9wMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8QMAAAAAAAD2AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					997,
+					1,
+					"insert",
+					{
+						"characters": "\n\npub"
+					},
+					"BgAAALICAAAAAAAAtwIAAAAAAAAAAAAAtwIAAAAAAAC8AgAAAAAAAAAAAACzAgAAAAAAALMCAAAAAAAABAAAACAgICC4AgAAAAAAALkCAAAAAAAAAAAAALkCAAAAAAAAugIAAAAAAAAAAAAAugIAAAAAAAC7AgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsgIAAAAAAACyAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					998,
+					1,
+					"insert",
+					{
+						"characters": " fn"
+					},
+					"AwAAALsCAAAAAAAAvAIAAAAAAAAAAAAAvAIAAAAAAAC9AgAAAAAAAAAAAAC9AgAAAAAAAL4CAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuwIAAAAAAAC7AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					999,
+					1,
+					"insert",
+					{
+						"characters": " read"
+					},
+					"BQAAAL4CAAAAAAAAvwIAAAAAAAAAAAAAvwIAAAAAAADAAgAAAAAAAAAAAADAAgAAAAAAAMECAAAAAAAAAAAAAMECAAAAAAAAwgIAAAAAAAAAAAAAwgIAAAAAAADDAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvgIAAAAAAAC+AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1000,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAMMCAAAAAAAAxQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwwIAAAAAAADDAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1001,
+					1,
+					"insert",
+					{
+						"characters": "st:"
+					},
+					"AwAAAMQCAAAAAAAAxQIAAAAAAAAAAAAAxQIAAAAAAADGAgAAAAAAAAAAAADGAgAAAAAAAMcCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxAIAAAAAAADEAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1002,
+					1,
+					"insert",
+					{
+						"characters": " &"
+					},
+					"AgAAAMcCAAAAAAAAyAIAAAAAAAAAAAAAyAIAAAAAAADJAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxwIAAAAAAADHAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1003,
+					5,
+					"left_delete",
+					null,
+					"BQAAAMgCAAAAAAAAyAIAAAAAAAABAAAAJscCAAAAAAAAxwIAAAAAAAABAAAAIMYCAAAAAAAAxgIAAAAAAAABAAAAOsUCAAAAAAAAxQIAAAAAAAABAAAAdMQCAAAAAAAAxAIAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAyQIAAAAAAADJAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1004,
+					1,
+					"insert",
+					{
+						"characters": "&self"
+					},
+					"BQAAAMQCAAAAAAAAxQIAAAAAAAAAAAAAxQIAAAAAAADGAgAAAAAAAAAAAADGAgAAAAAAAMcCAAAAAAAAAAAAAMcCAAAAAAAAyAIAAAAAAAAAAAAAyAIAAAAAAADJAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxAIAAAAAAADEAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1006,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAMoCAAAAAAAAzAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAygIAAAAAAADKAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1007,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BAAAAMsCAAAAAAAA0AIAAAAAAAAAAAAA0AIAAAAAAADVAgAAAAAAAAAAAADMAgAAAAAAAMwCAAAAAAAABAAAACAgICDMAgAAAAAAANQCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAywIAAAAAAADLAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1008,
+					1,
+					"insert",
+					{
+						"characters": "&self"
+					},
+					"BQAAANQCAAAAAAAA1QIAAAAAAAAAAAAA1QIAAAAAAADWAgAAAAAAAAAAAADWAgAAAAAAANcCAAAAAAAAAAAAANcCAAAAAAAA2AIAAAAAAAAAAAAA2AIAAAAAAADZAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1AIAAAAAAADUAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1009,
+					1,
+					"insert",
+					{
+						"characters": ".0"
+					},
+					"AgAAANkCAAAAAAAA2gIAAAAAAAAAAAAA2gIAAAAAAADbAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2QIAAAAAAADZAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1014,
+					1,
+					"insert",
+					{
+						"characters": "->&str"
+					},
+					"BgAAAMoCAAAAAAAAywIAAAAAAAAAAAAAywIAAAAAAADMAgAAAAAAAAAAAADMAgAAAAAAAM0CAAAAAAAAAAAAAM0CAAAAAAAAzgIAAAAAAAAAAAAAzgIAAAAAAADPAgAAAAAAAAAAAADPAgAAAAAAANACAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAygIAAAAAAADKAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1020,
+					1,
+					"insert",
+					{
+						"characters": "as"
+					},
+					"AgAAAL8CAAAAAAAAwAIAAAAAAAAEAAAAcmVhZMACAAAAAAAAwQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvwIAAAAAAADDAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					1021,
+					1,
+					"insert",
+					{
+						"characters": "_ref"
+					},
+					"BAAAAMECAAAAAAAAwgIAAAAAAAAAAAAAwgIAAAAAAADDAgAAAAAAAAAAAADDAgAAAAAAAMQCAAAAAAAAAAAAAMQCAAAAAAAAxQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwQIAAAAAAADBAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "auth/src/accounts/schemas/request.rs",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "auth/src/accounts/schemas/response.rs",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "auth/src/main.rs",
+			"settings":
+			{
+				"buffer_size": 504,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "08"
+					},
+					"AgAAANAAAAAAAAAA0QAAAAAAAAACAAAAODDRAAAAAAAAANIAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANAAAAAAAAAA0gAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "8"
+					},
+					"AQAAANAAAAAAAAAA0QAAAAAAAAABAAAAMA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANAAAAAAAAAA0QAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "80"
+					},
+					"AgAAAM4AAAAAAAAAzwAAAAAAAAAEAAAAODA4OM8AAAAAAAAA0AAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAM4AAAAAAAAA0gAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "3699"
+					},
+					"BAAAANAAAAAAAAAA0QAAAAAAAAAAAAAA0QAAAAAAAADSAAAAAAAAAAAAAADSAAAAAAAAANMAAAAAAAAAAAAAANMAAAAAAAAA1AAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "11111"
+					},
+					"BQAAAM4AAAAAAAAAzwAAAAAAAAAGAAAAODAzNjk5zwAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANEAAAAAAAAAAAAAANEAAAAAAAAA0gAAAAAAAAAAAAAA0gAAAAAAAADTAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAM4AAAAAAAAA1AAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inlay",
+				"LSP: Toggle Inlay Hints"
+			],
+			[
+				"pyright",
+				"Preferences: LSP-pyright Settings"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"Package Control: repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: upda",
+				"Package Control: Upgrade All Packages"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"LSP:",
+				"LSP-pyright: Create Pyright Configuration File"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"termin",
+				"Preferences: Terminus Command Palette"
+			],
+			[
+				"terminusView",
+				"Preferences: Terminus View Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 605.0,
+		"history":
+		[
+			"exit()",
+			"exit",
+			"LSP.plugin.__dir__()",
+			"LSP.plugin.__dir__",
+			"LSP.plugin",
+			"LSP.__dir__()",
+			"import LSP",
+			"sublime.active_window().run_command(\"lsp_troubleshoot\")",
+			"print(sublime.active_window().settings_object)",
+			"print(sublime.active_window().settings_object)\nimport sublime; [print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]\nimport sublime; [print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]\n[print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]",
+			"sdf",
+			"print(sublime.active_window().settings_object)\nimport sublime; [print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]\nimport sublime; [print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]\n[print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]",
+			"print(sublime.active_window().__dir__())\nimport sublime; [print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]\nimport sublime; [print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]\n[print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]",
+			"import sublime; [print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]\nimport sublime; [print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]\nimport sublime; [print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]\n[print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]",
+			"import sublime; [print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]\nimport sublime; [print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]\nimport sublime; [print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]\nimport sublime; [print(s) for s in sublime.active_window().workspace_value(\"lsp_servers\", {}).keys()]",
+			"sublime.active_window()",
+			"import sublime",
+			"__dir__",
+			"sys.clear()",
+			"import sys",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/roni/Documents/actix-web-bootstrap",
+		"/home/roni/Documents/actix-web-bootstrap/auth",
+		"/home/roni/Documents/actix-web-bootstrap/auth/src",
+		"/home/roni/Documents/actix-web-bootstrap/auth/src/accounts",
+		"/home/roni/Documents/actix-web-bootstrap/auth/src/accounts/schemas"
+	],
+	"file_history":
+	[
+		"/home/roni/Documents/thumplocal_backend/.env",
+		"/home/roni/Documents/thumplocal_backend/social_media_posting/request_serializers.py",
+		"/home/roni/Documents/thumplocal_backend/social_media_posting/views.py",
+		"/home/roni/Documents/thumplocal_backend/social_media_posting/ai_utils.py",
+		"/home/roni/Documents/thumplocal_backend/accounts/serializers.py",
+		"/home/roni/Documents/thumplocal_backend/accounts/views.py",
+		"/home/roni/Documents/thumplocal_backend/ad_management/request_serializers.py",
+		"/home/roni/Documents/thumplocal_backend/ad_management/helpers.py",
+		"/home/roni/Documents/thumplocal_backend/google-ads.yaml",
+		"/home/roni/Documents/thumplocal_backend/ad_management/admin.py",
+		"/home/roni/Documents/thumplocal_backend/googleads_test.py",
+		"/home/roni/Documents/thumplocal_backend/ad_management/urls.py",
+		"/home/roni/Documents/thumplocal_backend/webbuilder/tenweb_utils.py",
+		"/home/roni/Documents/thumplocal_backend/ad_management/views.py",
+		"/home/roni/Documents/thumplocal_backend/payment/urls.py",
+		"/home/roni/Documents/thumplocal_backend/THUMPLOCAL/settings.py",
+		"/home/roni/Documents/thumplocal_backend/payment/models.py",
+		"/home/roni/Documents/thumplocal_backend/accounts/admin.py",
+		"/home/roni/Documents/thumplocal_backend/accounts/models.py",
+		"/home/roni/Documents/thumplocal_backend/payment/views.py",
+		"/home/roni/Documents/thumplocal_backend/payment/request_serializer.py",
+		"/home/roni/Documents/thumplocal_backend/pyrightconfig.json",
+		"/home/roni/Documents/thumplocal_backend/thumplocal.sublime-project",
+		"/home/roni/Documents/thumplocal_backend/THUMPLOCAL/urls.py",
+		"/home/roni/Documents/thumplocal_backend/pyproject.toml",
+		"/home/roni/Documents/thumplocal_backend/oauth2_connects/google_oauth2.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/bookings/schemas.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/app/services.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/bookings/router.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/app/zoho/utils.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/oauth2_connects/models.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/.env",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/accounts/views.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/ai.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/BACKEND_APP/settings.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/notification/calendly_webhook_utils.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/notification/services.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/notification/router.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/app/utils.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/gateway_service/src/main.rs",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/oauth2_connects/calendly_oauth2.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/oauth2_connects/utils.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/bookings/services.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/app/google_calender/utils.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/manage.py",
+		"/home/roni/.config/sublime-text/Packages/Clickable URLs/Default (Linux).sublime-keymap",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/pyrightconfig.json",
+		"/home/roni/Documents/wise_wolse_inquary_ai/inquary.sublime-project",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/main_v2.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/schedule/utils.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/schedule/models.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/.env",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/app/router.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/schedule/router.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/schedule/schemas.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/bookings/models.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/accounts/urls.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/booking_service/auth/utils.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/proto_library/messages.proto",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/BACKEND_APP/s3_utils.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/accounts/models.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/oauth2_connects/views.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/accounts/serializers.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/accounts/request_serializers.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/oauth2_connects/google_oauth2.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/accounts/s3_utils.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/pyrightconfig.json",
+		"/home/roni/.cache/sublime-text/Package Storage/LSP-pyright/language-server/node_modules/pyright/dist/typeshed-fallback/stdlib/contextvars.pyi",
+		"/home/roni/Documents/wise_wolse_inquary_ai/backend_app/accounts/admin.py",
+		"/home/roni/Documents/wise_wolse_inquary_ai/pyrightconfig.json",
+		"/home/roni/Documents/wise_wolse_inquary_ai/pyright.json",
+		"/home/roni/Documents/mompr_backend/accounts/views.py",
+		"/home/roni/Documents/mompr_backend/.env",
+		"/home/roni/Documents/mompr_backend/payment_app/models.py",
+		"/home/roni/Documents/mompr_backend/movie_series/views.py",
+		"/home/roni/Documents/mompr_backend/movie_series/models.py",
+		"/home/roni/Documents/mompr_backend/movie_series/filters.py",
+		"/home/roni/Documents/mompr_backend/movie_series/serializers.py",
+		"/home/roni/Documents/mompr_backend/payment_app/views.py",
+		"/home/roni/Documents/mompr_backend/payment_app/urls.py",
+		"/home/roni/Documents/mompr_backend/payment_app/stripe_utils.py",
+		"/home/roni/Documents/mompr_backend/.gitignore",
+		"/home/roni/Documents/mompr_backend/movie_series/urls.py",
+		"/home/roni/Documents/mompr_backend/movie_series/vdocipher_client.py",
+		"/home/roni/Documents/mompr_backend/MOMPR_BACKEND/settings.py",
+		"/home/roni/Documents/mompr_backend/accounts/request_serializers.py",
+		"/home/roni/Documents/mompr_backend/notification/utils.py",
+		"/home/roni/Documents/mompr_backend/movie_series/signals.py",
+		"/home/roni/Documents/mompr_backend/movie_series/utils.py",
+		"/home/roni/Documents/noel_perez_bot/database.py",
+		"/home/roni/Documents/noel_perez_bot/app_one.py",
+		"/home/roni/Documents/noel_perez_bot/app.py",
+		"/home/roni/multivendor_ecommerce_microservice/auth/openapi.json",
+		"/home/roni/multivendor_ecommerce_microservice/auth/src/main.rs",
+		"/home/roni/multivendor_ecommerce_microservice/auth/src/services.rs",
+		"/home/roni/multivendor_ecommerce_microservice/macro_utils/src/lib.rs",
+		"/home/roni/multivendor_ecommerce_microservice/product/src/schemas.rs",
+		"/home/roni/multivendor_ecommerce_microservice/product/.env",
+		"/home/roni/multivendor_ecommerce_microservice/common_service/src/schemas.rs",
+		"/home/roni/multivendor_ecommerce_microservice/auth/src/db/customer.rs",
+		"/home/roni/multivendor_ecommerce_microservice/product/.cargo/config.toml",
+		"/home/roni/multivendor_ecommerce_microservice/product/Cargo.toml",
+		"/home/roni/multivendor_ecommerce_microservice/auth/Cargo.toml",
+		"/home/roni/multivendor_ecommerce_microservice/auth/src/tests.rs",
+		"/home/roni/multivendor_ecommerce_microservice/common_service/src/lib.rs",
+		"/home/roni/multivendor_ecommerce_microservice/product/src/db/product.rs",
+		"/home/roni/multivendor_ecommerce_microservice/product/src/services.rs",
+		"/home/roni/multivendor_ecommerce_microservice/macro_utils/Cargo.toml",
+		"/home/roni/multivendor_ecommerce_microservice/auth/.cargo/config.toml",
+		"/home/roni/multivendor_ecommerce_microservice/auth/src/db/user.rs",
+		"/home/roni/multivendor_ecommerce_microservice/auth/src/db/refresh_token.rs",
+		"/home/roni/multivendor_ecommerce_microservice/auth/src/schemas.rs",
+		"/home/roni/multivendor_ecommerce_microservice/product/src/db/mod.rs",
+		"/home/roni/multivendor_ecommerce_microservice/product/src/main.rs",
+		"/home/roni/learn_proc_macro/my_utils/comp_macro/Cargo.toml",
+		"/home/roni/learn_proc_macro/my_utils/comp_macro/.cargo/config.toml",
+		"/home/roni/learn_proc_macro/.gitignore",
+		"/home/roni/learn_proc_macro/my_utils/src/lib.rs",
+		"/home/roni/learn_proc_macro/query.md",
+		"/home/roni/learn_proc_macro/my_utils/comp_macro/src/lib.rs",
+		"/home/roni/learn_proc_macro/my_utils/Cargo.toml",
+		"/home/roni/Documents/noel_perez_bot/noel_bot/app.py",
+		"/home/roni/Documents/noel_perez_bot/pyproject.toml",
+		"/home/roni/Documents/mompr_backend/fcm-cred.json",
+		"/home/roni/Documents/mompr_backend/movie_series/admin.py",
+		"/home/roni/Documents/mompr_backend/requirements.txt",
+		"/home/roni/Documents/mompr_backend/accounts/urls.py",
+		"/home/roni/Documents/mompr_backend/accounts/serializers.py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "actix-web-bootstrap.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								310,
+								310
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///home/roni/Documents/actix-web-bootstrap/actix-web-bootstrap.sublime-project",
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "auth/src/accounts/mod.rs",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ":.'(",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "rust-analyzer"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///home/roni/Documents/actix-web-bootstrap/auth/src/accounts/mod.rs",
+							"show_definitions": false,
+							"syntax": "Packages/Rust/Rust.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "auth/src/accounts/schemas/mod.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ":.'(",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "rust-analyzer"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///home/roni/Documents/actix-web-bootstrap/auth/src/accounts/schemas/mod.rs",
+							"show_definitions": false,
+							"syntax": "Packages/Rust/Rust.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "auth/Cargo.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 464,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///home/roni/Documents/actix-web-bootstrap/auth/Cargo.toml",
+							"syntax": "Packages/TOML/TOML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "gateway_service/src/main.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4240,
+								4240
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ":.'(",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "rust-analyzer"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///home/roni/Documents/actix-web-bootstrap/gateway_service/src/main.rs",
+							"show_definitions": false,
+							"syntax": "Packages/Rust/Rust.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1771.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "auth/src/startup.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1374,
+								1374
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ":.'(",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "rust-analyzer"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///home/roni/Documents/actix-web-bootstrap/auth/src/startup.rs",
+							"show_definitions": false,
+							"syntax": "Packages/Rust/Rust.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 325.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "auth/src/accounts/models/user.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								747,
+								747
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ":.'(",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "rust-analyzer"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///home/roni/Documents/actix-web-bootstrap/auth/src/accounts/models/user.rs",
+							"show_definitions": false,
+							"syntax": "Packages/Rust/Rust.sublime-syntax",
+							"tab_size": 4
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "auth/src/accounts/schemas/request.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ":.'(",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "rust-analyzer"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///home/roni/Documents/actix-web-bootstrap/auth/src/accounts/schemas/request.rs",
+							"show_definitions": false,
+							"syntax": "Packages/Rust/Rust.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "auth/src/accounts/schemas/response.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ":.'(",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "rust-analyzer"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///home/roni/Documents/actix-web-bootstrap/auth/src/accounts/schemas/response.rs",
+							"show_definitions": false,
+							"syntax": "Packages/Rust/Rust.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "auth/src/main.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ":.'(",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "rust-analyzer"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///home/roni/Documents/actix-web-bootstrap/auth/src/main.rs",
+							"show_definitions": false,
+							"syntax": "Packages/Rust/Rust.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.Panel One":
+	{
+		"height": 444.0,
+		"history":
+		[
+		]
+	},
+	"output.Panel Two":
+	{
+		"height": 265.0,
+		"history":
+		[
+		]
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "actix-web-bootstrap.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/chat_app/chat_app.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

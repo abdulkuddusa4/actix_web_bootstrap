@@ -1,0 +1,16 @@
+[package]
+name = "auth"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+actix-web = "4.13.0"
+sea-orm = {version="2.0.0-rc", features = [
+	"sqlx-sqlite", "sqlx-postgres", "runtime-tokio-rustls", "macros",
+	"schema-sync", "entity-registry"
+	]}
+utoipa-swagger-ui = {version="9.0.2", features=["actix-web"]}
+utoipa = { version = "5.4.0", features = ["actix_extras", ] }
+serde = { version = "1", features = ["derive"] }
+tokio = { version = "1", features = ["full"] }
+env_logger = "0.11.9"

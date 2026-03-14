@@ -1,0 +1,13 @@
+auth:
+  prefix: "/auth"
+  strip_prefix: true
+  load_balance: round_robin
+  timeout_ms: 5000          # what if a server hangs?
+  servers:
+    - url: "http://localhost:1212"
+      weight: 1
+    - url: "http://localhost:1213"
+      weight: 1
+  health_check:
+    path: "/health"
+    interval_ms: 10000

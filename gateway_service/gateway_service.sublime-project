@@ -1,0 +1,53 @@
+{
+    "folders": [
+        {
+            "path": ".",
+            "folder_exclude_patterns": ["target"]
+        }
+    ],
+    "settings": {
+        "tab_size": 4,
+        "translate_tabs_to_spaces": true,
+        "rulers": [100],
+        "LSP": {
+            "LSP-rust-analyzer": {
+                "enabled": true,
+                "settings": {
+                    "rust-analyzer.cargo.features": "all",
+                    "rust-analyzer.checkOnSave.command": "clippy",
+                    "rust-analyzer.inlayHints.enable": true,
+                    "rust-analyzer.procMacro.enable": true
+                }
+            },
+            "LSP-pyright": {
+                "enabled": false
+            }
+        }
+    },
+    "build_systems": [
+        {
+            "name": "Cargo Run",
+            "cmd": ["cargo", "run"],
+            "working_dir": "${project_path}",
+            "file_regex": "^(.+):(\\d+):(\\d+)"
+        },
+        {
+            "name": "Cargo Build",
+            "cmd": ["cargo", "build"],
+            "working_dir": "${project_path}",
+            "file_regex": "^(.+):(\\d+):(\\d+)"
+        },
+        {
+            "name": "Cargo Test",
+            "cmd": ["cargo", "test"],
+            "working_dir": "${project_path}",
+            "file_regex": "^(.+):(\\d+):(\\d+)"
+        },
+        {
+            "name": "Cargo Clippy",
+            "cmd": ["cargo", "clippy"],
+            "working_dir": "${project_path}",
+            "file_regex": "^(.+):(\\d+):(\\d+)"
+        }
+    ]
+}

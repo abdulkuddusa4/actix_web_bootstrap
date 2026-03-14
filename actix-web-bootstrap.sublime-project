@@ -1,0 +1,79 @@
+{
+    "folders": [
+
+        {"path": ".", "folder_exclude_patterns": []},
+        // {"path": "backend_app"},
+        // {"path": "booking_service"},
+        // {"path": "inquary_mcp_server"},
+        // {"path": "gateway_service"},
+        // {"path": "prompts"},
+        // {"path": "proto_library"},
+    ],
+
+    "settings": {
+        "tab_size": 4,
+        "translate_tabs_to_spaces": true,
+        "LSP": {
+            "LSP-pyright": {
+                "enabled": true,
+            },
+            "LSP-rust-analyzer": {
+                "enabled": true,
+
+                "settings": {
+                    "rust-analyzer.cargo.features": "all",
+                    "rust-analyzer.checkOnSave.command": "clippy",
+                    "rust-analyzer.inlayHints.enable": true,
+                    "rust-analyzer.procMacro.enable": true,
+                    // "rust-analyzer.completion.autoimport.enable": true,
+                    // "rust-analyzer.completion.autoself.enable": true
+                }
+            },
+        },
+        "SublimeLinter.linters.ruff.executable": "venv/bin/ruff",
+        "SublimeLinter.linters.mypy.executable": "venv/bin/mypy"
+    },
+    "build_systems": [
+        {
+            "name": "auth: Run",
+            "cmd": ["auth-service/venv/bin/python", "-m", "uvicorn", "src.main:app", "--reload", "--port", "8001"],
+            "working_dir": "${project_path}/auth-service",
+            "file_regex": "^(.+):(\\d+):(\\d+): (.*)"
+        },
+        {
+            "name": "auth: Test",
+            "cmd": ["auth-service/venv/bin/pytest", "tests/", "-v"],
+            "working_dir": "${project_path}/auth-service",
+            "file_regex": "^(.+):(\\d+):(\\d+): (.*)",
+        },
+        {
+            "name": "auth: Install Deps",
+            "cmd": ["bash", "-c", "cd auth-service && python3 -m venv venv && venv/bin/pip install -r requirements.txt"],
+            "working_dir": "${project_path}",
+        },
+        {
+            "name": "gateway: Run",
+            "cmd": ["cargo", "run"],
+            "working_dir": "${project_path}/gateway-service",
+            "file_regex": "^(.+):(\\d+):(\\d+)",
+        },
+        {
+            "name": "gateway: Build",
+            "cmd": ["cargo", "build"],
+            "working_dir": "${project_path}/gateway-service",
+            "file_regex": "^(.+):(\\d+):(\\d+)",
+        },
+        {
+            "name": "gateway: Test",
+            "cmd": ["cargo", "test"],
+            "working_dir": "${project_path}/gateway-service",
+            "file_regex": "^(.+):(\\d+):(\\d+)",
+        },
+        {
+            "name": "gateway: Clippy",
+            "cmd": ["cargo", "clippy"],
+            "working_dir": "${project_path}/gateway-service",
+            "file_regex": "^(.+):(\\d+):(\\d+)",
+        }
+    ],
+}

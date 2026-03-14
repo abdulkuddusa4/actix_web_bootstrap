@@ -1,0 +1,59 @@
+version: '3.8'
+
+services:
+  # Backend App (OAuth Service)
+  backend_app:
+    build:
+      context: ../backend_app
+      dockerfile: ../DockerfileBackendApp
+    ports:
+      - "3344:3344"
+    environment:
+      - PORT=3344
+    networks:
+      - app_network
+
+  # Booking Service
+  booking_service:
+    build:
+      context: ../booking_service
+      dockerfile: ../DockerfileBookingService
+    ports:
+      - "1111:1111"
+    environment:
+      - PORT=1111
+    networks:
+      - app_network
+
+  # MCP Server
+  mcp_server:
+    build:
+      context: ../inquary_mcp_server
+    ports:
+      - "2222:2222"
+    environment:
+      - PORT=2222
+    networks:
+      - app_network
+
+  # API Gateway
+  gateway:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    environment:
+      - OAUTH_SERVICE=http://backend_app:3344
+      - BOOKING_SERVICE=http://booking_service:1111
+      - MCP_SERVER=http://mcp_server:2222
+    depends_on:
+      - backend_app
+      - booking_service
+      - mcp_server
+    networks:
+      - app_network
+
+networks:
+  app_network:
+    driver: bridge
