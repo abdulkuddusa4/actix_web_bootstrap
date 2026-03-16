@@ -6,7 +6,7 @@ fn print_type_of<T>(_:&T){
 }
 #[actix_web::main]
 async fn main() {
-    let listener = std::net::TcpListener::bind("127.0.0.1:1212").unwrap();
+    let listener = std::net::TcpListener::bind("127.0.0.1:3003").unwrap();
     let db = sea_orm::Database::connect("sqlite://db.sqlite3?mode=rwc").await.unwrap();
 
     db.get_schema_registry("auth::accounts::models::*").sync(&db).await.unwrap();

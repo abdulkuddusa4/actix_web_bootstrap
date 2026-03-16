@@ -63,5 +63,11 @@ impl ActiveModelBehavior for ActiveModel{}
 
 
 impl ActiveModel{
-
+    async fn new_user(db: &sea_orm::DatabaseConnection, email: &str, password: &str){
+        let user = Self{email: sea_orm::ActiveValue::set(email.to_owned()),..Default::default()};
+    }
+    async fn set_password(&self, new_password: &str){
+        let eml: &str = self.email.try_as_ref().unwrap();
+        let salt: String = format!("{}|{}", eml, crate::utils::generate_random_string(10));
+    }
 }
