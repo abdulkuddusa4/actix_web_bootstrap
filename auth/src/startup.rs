@@ -1,5 +1,6 @@
 use std::net::TcpListener;
 use actix_web::{App, Error, HttpServer, middleware::Logger, web};
+use deadpool_redis::Config;
 use env_logger::Env;
 use lettre::transport::smtp::authentication::Credentials;
 use sea_orm::DatabaseConnection;
@@ -50,7 +51,8 @@ impl Modify for SecurityAddon {
 struct ApiDoc;
 
 
-struct Config{
+#[derive(Clone)]
+struct AppConfig{
     redis_client: deadpool_redis::Pool,
     db: DatabaseConnection,
     mail_cred: Credentials
@@ -64,7 +66,14 @@ pub fn init_actix_web_server(
 -> Result<actix_web::dev::Server, String>
 {
     env_logger::init_from_env(Env::default().default_filter_or("info"));
+    let mut cfg = Config::from_url("redis://127.0.0.1:6379");
 
+    let pool = cfg.create_pool(Some(deadpool_redis::Runtime::Tokio1)).unwrap();
+    let config = AppConfig{
+        db: db.clone(),
+        redis_client: pool,
+        mail_cred: Credentials::new("abdulkuddusa4@gmail.com".to_owned(), "lypo whlp okjv ygii".to_owned()),
+    };
     let server = HttpServer::new(move || {
         App::new()
             .wrap(Logger::new("[%t] \"%r\" %s %b"))  // Custom format
@@ -73,7 +82,7 @@ pub fn init_actix_web_server(
                     .url("/docs/openapi.json", ApiDoc::openapi()),
             )
             .service(get_accounts_router())
-            .app_data(web::Data::new(db.clone()))
+            .app_data(web::Data::new(config.clone()))
     })
     .listen(listener).unwrap()
     .run();
