@@ -1,4 +1,7 @@
-use sea_orm::entity::prelude::*;
+#![allow(warnings)]
+
+use sea_orm::{ActiveValue, entity::prelude::*};
+use sha2::{Sha512, Digest};
 
 
 #[derive(Clone, Debug, PartialEq, Eq, DeriveActiveEnum, EnumIter)]
@@ -63,11 +66,29 @@ impl ActiveModelBehavior for ActiveModel{}
 
 
 impl ActiveModel{
-    async fn new_user(db: &sea_orm::DatabaseConnection, email: &str, password: &str){
+    pub async fn new_user(db: &sea_orm::DatabaseConnection, email: &str, password: &str){
         let user = Self{email: sea_orm::ActiveValue::set(email.to_owned()),..Default::default()};
     }
-    async fn set_password(&self, new_password: &str){
+
+    pub async fn set_password(&mut self, new_password: &str){
         let eml: &str = self.email.try_as_ref().unwrap();
         let salt: String = format!("{}|{}", eml, crate::utils::generate_random_string(10));
+        let mut hasher = Sha512::new();
+        hasher.update(&salt);
+        hasher.update(new_password);
+        let digest = format!("{:x}", hasher.finalize());
+
+        self.salt = ActiveValue::Set(salt);
+        self.digest = sea_orm::ActiveValue::Set(digest);
+    }
+}
+
+
+impl Model{
+    pub async fn check_password(&self, password: &str)->bool{
+        let mut hasher = Sha512::new();
+        hasher.update(&self.salt);
+        hasher.update(&self.digest);
+        self.digest == format!("{:x}", hasher.finalize())
     }
 }
