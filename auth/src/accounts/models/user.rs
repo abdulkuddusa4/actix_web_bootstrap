@@ -1,6 +1,8 @@
-#![allow(warnings)]
+
+
 
 use sea_orm::{ActiveValue, entity::prelude::*};
+use sea_orm::TryIntoModel;
 use sha2::{Sha512, Digest};
 
 
@@ -15,28 +17,6 @@ enum OtpReason{
     EmailVerification,
 }
 
-#[derive(Clone, Debug, PartialEq, Eq)]
-struct Email(String);
-
-
-impl Email{
-    pub fn parse(st: &str)->Option<Self>{
-        let parts = st.split("@").collect::<Vec<&str>>();
-
-        if parts.len() != 2{
-            return None;
-        }
-        if parts[1].split(".").collect::<Vec<&str>>().len() < 2{
-            return None;
-        }
-
-        return Some(Self(st.to_owned()))
-    }
-
-    pub fn as_ref(&self)->&str{
-        &self.0
-    }
-}
 
 
 impl Default for OtpReason{
@@ -66,8 +46,11 @@ impl ActiveModelBehavior for ActiveModel{}
 
 
 impl ActiveModel{
-    pub async fn new_user(db: &sea_orm::DatabaseConnection, email: &str, password: &str){
-        let user = Self{email: sea_orm::ActiveValue::set(email.to_owned()),..Default::default()};
+    pub async fn create_user(db: &sea_orm::DatabaseConnection, email: &str, password: &str)->Result<Model, DbErr>{
+        let mut user = Self{email: sea_orm::ActiveValue::set(email.to_owned()),..Default::default()};
+        user.set_password(password);
+        let user = user.save(db).await.unwrap();
+        user.try_into_model()
     }
 
     pub async fn set_password(&mut self, new_password: &str){
@@ -83,6 +66,8 @@ impl ActiveModel{
     }
 }
 
+
+use sea_orm::IntoActiveModel;
 
 impl Model{
     pub async fn check_password(&self, password: &str)->bool{

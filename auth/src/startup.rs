@@ -1,6 +1,8 @@
 use std::net::TcpListener;
 use actix_web::{App, Error, HttpServer, middleware::Logger, web};
 use env_logger::Env;
+use lettre::transport::smtp::authentication::Credentials;
+use sea_orm::DatabaseConnection;
 use utoipa::{Modify, OpenApi, openapi::{self, security::{HttpAuthScheme, HttpBuilder, SecurityScheme}}};
 use utoipa_swagger_ui::SwaggerUi;
 
@@ -46,6 +48,13 @@ impl Modify for SecurityAddon {
     info(title = "My API", version = "1.0.0")
 )]
 struct ApiDoc;
+
+
+struct Config{
+    redis_client: deadpool_redis::Pool,
+    db: DatabaseConnection,
+    mail_cred: Credentials
+}
 
 
 pub fn init_actix_web_server(

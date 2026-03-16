@@ -16,3 +16,5 @@ tokio = { version = "1", features = ["full"] }
 env_logger = "0.11.9"
 rand = { version = "0.10.0", features = ["std"] }
 sha2 = "0.10.9"
+deadpool-redis = "0.23.0"
+lettre = { version = "0.11.19", features = ["smtp-transport", "tokio1", "tokio1-native-tls"] }
