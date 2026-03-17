@@ -76,4 +76,9 @@ impl Model{
         hasher.update(&self.digest);
         self.digest == format!("{:x}", hasher.finalize())
     }
+
+    // pub async fn find_by_email(&self, db: &DatabaseConnection, email: &str)->Model{
+    //     let user = Entity::find_by_email("abdulkuddusa4@gmail.com").one(db).await;
+    //     todo!();
+    // }
 }
