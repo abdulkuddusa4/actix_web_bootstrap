@@ -117,6 +117,7 @@ actix_web_bootstrap/
 - [x] API Gateway service
 - [x] Auth service skeleton
 - [ ] JWT middleware
+- [ ] Chat System with group chat.
 - [ ] Stripe payment integration
 - [ ] Third-party OAuth (Google, GitHub)
 - [ ] Docker Compose full orchestration
