@@ -5,7 +5,7 @@ use env_logger::Env;
 use lettre::transport::smtp::authentication::Credentials;
 use sea_orm::DatabaseConnection;
 use utoipa::{Modify, OpenApi, openapi::{self, security::{HttpAuthScheme, HttpBuilder, SecurityScheme}}};
-use utoipa_swagger_ui::SwaggerUi;
+use utoipa_swagger_ui::{SwaggerUi, Config as UtipaSwaggerConfig};
 
 use crate::accounts::get_router as get_accounts_router;
 
@@ -35,14 +35,14 @@ impl Modify for SecurityAddon {
 #[openapi(
     // 👇 nest mirrors .service(web::scope("/accounts"))
     nest(
-        (path = "/accounts", api = crate::accounts::AccountsApiDoc),
+        (path = crate::accounts::SUB_ROUTE, api = crate::accounts::AccountsApiDoc, tags=["accounts"]),
         // add more modules here as your app grows:
         // (path = "/orders", api = orders::OrdersApiDoc),
         // (path = "/auth",   api = auth::AuthApiDoc),
     ),
     modifiers(&SecurityAddon), 
     servers(
-        // (url = "/accounts", description = "Production (behind proxy)"),
+        // (url = "/auth", description = "Production (behind proxy)"),
         // (url = "/",    description = "Local dev"),
     ),
 
@@ -57,7 +57,6 @@ struct AppConfig{
     db: DatabaseConnection,
     mail_cred: Credentials
 }
-
 
 pub fn init_actix_web_server(
     listener: TcpListener,
@@ -79,7 +78,9 @@ pub fn init_actix_web_server(
             .wrap(Logger::new("[%t] \"%r\" %s %b"))  // Custom format
             .service(
                 SwaggerUi::new("/docs/{_:.*}")
-                    .url("/docs/openapi.json", ApiDoc::openapi()),
+                    .url("/openapi.json", ApiDoc::openapi())
+                    .config(UtipaSwaggerConfig::from("/auth/openapi.json"))
+                    ,
             )
             .service(get_accounts_router())
             .app_data(web::Data::new(config.clone()))

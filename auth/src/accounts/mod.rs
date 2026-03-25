@@ -1,14 +1,15 @@
 mod models;
 mod schemas;
+mod handlers;
 
 
 use actix_web::{web};
 use utoipa::{OpenApi, openapi};
 
-const sub_route: &str = "/accounts";
+pub const SUB_ROUTE: &str = "/accounts";
 
 pub fn get_router() -> actix_web::Scope {
-    web::scope(sub_route)
+    web::scope(SUB_ROUTE)
     .service(profile)
 }
 
@@ -25,7 +26,7 @@ pub struct AccountsApiDoc;
 
 #[utoipa::path(
     get,
-    path =  format!("{}/profile", sub_route),
+    path =  format!("/profile"),
     security(("bearer_auth" = []))  // 👈 applied per endpoint
 )]
 #[actix_web::get("/profile")]
